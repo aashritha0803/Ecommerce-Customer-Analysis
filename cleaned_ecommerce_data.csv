@@ -1,0 +1,1001 @@
+Order_ID,Customer_ID,Gender,Age,Product_Category,Product,Quantity,Price,Payment_Method,Order_Date,City,Revenue,Month,Month_Number,Year,Age_Group
+ORD00001,CUST0227,Female,58.0,Beauty,Lipstick,1,542.57,Credit Card,2025-11-25,Delhi,542.57,November,11,2025,56+
+ORD00002,CUST0251,Female,26.0,Clothing,T-Shirt,2,830.34,UPI,2025-06-01,Chennai,1660.68,June,6,2025,26-35
+ORD00003,CUST0094,Male,48.0,Beauty,Moisturizer,3,538.9,Credit Card,2025-12-21,Bengaluru,1616.6999999999998,December,12,2025,46-55
+ORD00004,CUST0125,Female,42.0,Home & Kitchen,Bedsheet,2,1298.41,UPI,2025-07-28,Kolkata,2596.82,July,7,2025,36-45
+ORD00005,CUST0331,Female,47.0,Electronics,Power Bank,1,1361.09,UPI,2025-05-21,Hyderabad,1361.09,May,5,2025,46-55
+ORD00006,CUST0299,Female,23.0,Books,Novel,1,359.46,Credit Card,2025-01-01,Hyderabad,359.46,January,1,2025,18-25
+ORD00007,CUST0145,Female,40.0,Beauty,Shampoo,3,443.12,Debit Card,2025-08-12,Mysuru,1329.3600000000001,August,8,2025,36-45
+ORD00008,CUST0085,Female,48.0,Beauty,Face Wash,3,353.81,Cash on Delivery,2025-08-24,Hyderabad,1061.43,August,8,2025,46-55
+ORD00009,CUST0106,Male,34.0,Electronics,Power Bank,1,1110.51,Debit Card,2025-12-20,Bengaluru,1110.51,December,12,2025,26-35
+ORD00010,CUST0189,Female,59.0,Clothing,Sneakers,2,2665.97,Cash on Delivery,2025-09-20,Kolkata,5331.94,September,9,2025,56+
+ORD00011,CUST0199,Male,43.0,Clothing,Jacket,1,2508.53,Debit Card,2025-01-11,Chennai,2508.53,January,1,2025,36-45
+ORD00012,CUST0065,Male,35.0,Books,Data Analytics Book,1,689.63,Debit Card,2025-07-26,Delhi,689.63,July,7,2025,26-35
+ORD00013,CUST0024,Male,19.0,Home & Kitchen,Mixer,1,3422.04,UPI,2025-09-29,Pune,3422.04,September,9,2025,18-25
+ORD00014,CUST0174,Female,26.0,Beauty,Lipstick,1,555.77,Debit Card,2025-07-01,Pune,555.77,July,7,2025,26-35
+ORD00015,CUST0280,Female,40.0,Clothing,Sneakers,1,2791.54,UPI,2025-06-06,Bengaluru,2791.54,June,6,2025,36-45
+ORD00016,CUST0054,Female,37.0,Electronics,Smartphone,2,17017.29,UPI,2025-10-23,Bengaluru,34034.58,October,10,2025,36-45
+ORD00017,CUST0143,Female,59.0,Home & Kitchen,Bedsheet,1,1155.38,UPI,2025-08-12,Mumbai,1155.38,August,8,2025,56+
+ORD00018,CUST0057,Female,55.0,Electronics,Power Bank,1,1421.54,Cash on Delivery,2025-09-06,Bengaluru,1421.54,September,9,2025,46-55
+ORD00019,CUST0085,Male,25.0,Beauty,Sunscreen,1,542.43,Debit Card,2025-06-19,Hyderabad,542.43,June,6,2025,18-25
+ORD00020,CUST0215,Female,46.0,Home & Kitchen,Bedsheet,1,1194.94,Cash on Delivery,2025-04-12,Mumbai,1194.94,April,4,2025,46-55
+ORD00021,CUST0101,Female,39.0,Beauty,Moisturizer,1,523.58,Net Banking,2025-07-09,Hyderabad,523.58,July,7,2025,36-45
+ORD00022,CUST0093,Female,22.0,Clothing,Sneakers,1,2484.69,Cash on Delivery,2025-12-17,Bengaluru,2484.69,December,12,2025,18-25
+ORD00023,CUST0349,Male,49.0,Books,Biography,1,521.55,UPI,2025-08-08,Kolkata,521.55,August,8,2025,46-55
+ORD00024,CUST0061,Male,43.0,Books,Cookbook,2,558.1,Cash on Delivery,2025-09-16,Kolkata,1116.2,September,9,2025,36-45
+ORD00025,CUST0067,Male,22.0,Beauty,Face Wash,3,384.25,Cash on Delivery,2025-02-15,Hyderabad,1152.75,February,2,2025,18-25
+ORD00026,CUST0326,Male,40.0,Electronics,Laptop Stand,1,820.18,Cash on Delivery,2025-12-27,Bengaluru,820.18,December,12,2025,36-45
+ORD00027,CUST0193,Male,53.0,Clothing,Sneakers,3,2340.45,UPI,2025-03-31,Delhi,7021.349999999999,March,3,2025,46-55
+ORD00028,CUST0016,Male,33.0,Electronics,Keyboard,3,1526.16,UPI,2025-12-21,Chennai,4578.4800000000005,December,12,2025,26-35
+ORD00029,CUST0149,Female,35.0,Electronics,Laptop Stand,2,811.44,Cash on Delivery,2025-06-12,Chennai,1622.88,June,6,2025,26-35
+ORD00030,CUST0198,Male,23.0,Home & Kitchen,Water Bottle,2,425.57,UPI,2025-12-02,Mysuru,851.14,December,12,2025,18-25
+ORD00031,CUST0089,Male,27.0,Beauty,Shampoo,2,383.17,UPI,2025-11-22,Pune,766.34,November,11,2025,26-35
+ORD00032,CUST0192,Female,65.0,Books,Novel,2,313.09,Credit Card,2025-10-03,Kolkata,626.18,October,10,2025,56+
+ORD00033,CUST0227,Male,47.0,Clothing,T-Shirt,2,729.81,UPI,2025-12-01,Hyderabad,1459.62,December,12,2025,46-55
+ORD00034,CUST0088,Male,26.0,Clothing,Sneakers,1,2632.22,UPI,2025-08-11,Delhi,2632.22,August,8,2025,26-35
+ORD00035,CUST0285,Male,41.0,Clothing,Dress,3,1661.5,Net Banking,2025-11-06,Hyderabad,4984.5,November,11,2025,36-45
+ORD00036,CUST0159,Female,27.0,Electronics,Keyboard,1,1527.59,Cash on Delivery,2025-03-04,Mumbai,1527.59,March,3,2025,26-35
+ORD00037,CUST0338,Male,39.0,Electronics,Laptop Stand,2,1011.4,Cash on Delivery,2025-01-26,Hyderabad,2022.8,January,1,2025,36-45
+ORD00038,CUST0031,Male,24.0,Clothing,T-Shirt,1,778.26,UPI,2025-07-18,Bengaluru,778.26,July,7,2025,18-25
+ORD00039,CUST0114,Female,47.0,Electronics,Keyboard,1,1702.91,UPI,2025-10-23,Bengaluru,1702.91,October,10,2025,46-55
+ORD00040,CUST0253,Female,45.0,Home & Kitchen,Bedsheet,1,1308.95,Credit Card,2025-10-07,Hyderabad,1308.95,October,10,2025,36-45
+ORD00041,CUST0314,Female,48.0,Clothing,Jeans,1,1819.51,Credit Card,2025-07-12,Hyderabad,1819.51,July,7,2025,46-55
+ORD00042,CUST0078,Female,39.0,Beauty,Lipstick,1,467.13,UPI,2025-07-10,Kolkata,467.13,July,7,2025,36-45
+ORD00043,CUST0344,Other,31.0,Beauty,Sunscreen,1,585.77,Debit Card,2025-08-11,Hyderabad,585.77,August,8,2025,26-35
+ORD00044,CUST0068,Male,29.0,Clothing,Sneakers,1,2188.14,Net Banking,2025-11-13,Kolkata,2188.14,November,11,2025,26-35
+ORD00045,CUST0146,Female,28.0,Beauty,Moisturizer,1,557.49,Credit Card,2025-11-04,Pune,557.49,November,11,2025,26-35
+ORD00046,CUST0111,Female,38.0,Beauty,Lipstick,1,493.61,Credit Card,2025-02-10,Mumbai,493.61,February,2,2025,36-45
+ORD00047,CUST0149,Other,39.0,Clothing,Jacket,3,2616.11,Credit Card,2025-08-06,Kolkata,7848.33,August,8,2025,36-45
+ORD00048,CUST0316,Female,50.0,Clothing,Jacket,1,3116.75,UPI,2025-05-20,Delhi,3116.75,May,5,2025,46-55
+ORD00049,CUST0257,Male,20.0,Home & Kitchen,Cookware Set,1,2399.62,UPI,2025-10-19,Hyderabad,2399.62,October,10,2025,18-25
+ORD00050,CUST0279,Female,31.0,Electronics,Power Bank,1,1134.58,Credit Card,2025-07-04,Bengaluru,1134.58,July,7,2025,26-35
+ORD00051,CUST0089,Female,58.0,Electronics,Headphones,1,1612.46,Credit Card,2025-12-28,Mysuru,1612.46,December,12,2025,56+
+ORD00052,CUST0332,Male,61.0,Electronics,Smartphone,1,18064.58,Credit Card,2025-06-07,Hyderabad,18064.58,June,6,2025,56+
+ORD00053,CUST0153,Female,62.0,Beauty,Moisturizer,2,525.82,Cash on Delivery,2025-09-05,Mumbai,1051.64,September,9,2025,56+
+ORD00054,CUST0229,Male,32.0,Home & Kitchen,Lamp,3,832.36,UPI,2025-02-09,Hyderabad,2497.08,February,2,2025,26-35
+ORD00055,CUST0245,Female,24.0,Beauty,Sunscreen,1,559.56,UPI,2025-12-07,Bengaluru,559.56,December,12,2025,18-25
+ORD00056,CUST0233,Male,27.0,Beauty,Moisturizer,2,614.41,UPI,2025-02-26,Mumbai,1228.82,February,2,2025,26-35
+ORD00057,CUST0211,Male,24.0,Clothing,Sneakers,1,2821.2,UPI,2025-05-19,Chennai,2821.2,May,5,2025,18-25
+ORD00058,CUST0169,Male,63.0,Home & Kitchen,Cookware Set,1,2560.69,Credit Card,2025-11-02,Hyderabad,2560.69,November,11,2025,56+
+ORD00059,CUST0227,Female,60.0,Electronics,Smartphone,1,19350.89,Cash on Delivery,2025-12-20,Mumbai,19350.89,December,12,2025,56+
+ORD00060,CUST0317,Male,56.0,Electronics,Laptop Stand,1,1038.16,UPI,2025-06-26,Kolkata,1038.16,June,6,2025,56+
+ORD00061,CUST0137,Other,53.0,Home & Kitchen,Lamp,1,1019.65,Debit Card,2025-06-26,Pune,1019.65,June,6,2025,46-55
+ORD00062,CUST0179,Female,34.0,Clothing,Jacket,2,2981.25,Credit Card,2025-01-18,Bengaluru,5962.5,January,1,2025,26-35
+ORD00063,CUST0064,Female,40.0,Home & Kitchen,Mixer,2,3716.55,UPI,2025-12-24,Hyderabad,7433.1,December,12,2025,36-45
+ORD00064,CUST0125,Male,58.0,Beauty,Sunscreen,1,700.81,Credit Card,2025-01-07,Mysuru,700.81,January,1,2025,56+
+ORD00065,CUST0271,Female,57.0,Home & Kitchen,Bedsheet,1,1465.11,UPI,2025-01-10,Mumbai,1465.11,January,1,2025,56+
+ORD00066,CUST0225,Male,42.0,Home & Kitchen,Bedsheet,1,1314.72,Cash on Delivery,2025-06-22,Mysuru,1314.72,June,6,2025,36-45
+ORD00067,CUST0074,Male,58.0,Home & Kitchen,Cookware Set,1,2196.01,Credit Card,2025-01-02,Delhi,2196.01,January,1,2025,56+
+ORD00068,CUST0192,Female,34.0,Clothing,Dress,1,1625.51,UPI,2025-03-01,Bengaluru,1625.51,March,3,2025,26-35
+ORD00069,CUST0285,Male,37.0,Electronics,Smartphone,2,18306.36,UPI,2025-08-18,Hyderabad,36612.72,August,8,2025,36-45
+ORD00070,CUST0044,Male,58.0,Clothing,Jacket,4,2864.43,UPI,2025-09-15,Mysuru,11457.72,September,9,2025,56+
+ORD00071,CUST0022,Female,36.0,Electronics,Headphones,1,1786.64,Cash on Delivery,2025-04-19,Hyderabad,1786.64,April,4,2025,36-45
+ORD00072,CUST0138,Male,54.0,Clothing,Sneakers,1,2517.26,UPI,2025-10-18,Chennai,2517.26,October,10,2025,46-55
+ORD00073,CUST0230,Female,39.0,Beauty,Shampoo,2,417.3,UPI,2025-08-10,Mysuru,834.6,August,8,2025,36-45
+ORD00074,CUST0110,Female,32.0,Electronics,Smartphone,2,20570.66,UPI,2025-03-25,Bengaluru,41141.32,March,3,2025,26-35
+ORD00075,CUST0288,Male,43.0,Electronics,Power Bank,1,1065.64,Cash on Delivery,2025-09-18,Pune,1065.64,September,9,2025,36-45
+ORD00076,CUST0297,Female,47.0,Clothing,Jacket,1,2600.67,Credit Card,2025-08-05,Chennai,2600.67,August,8,2025,46-55
+ORD00077,CUST0187,Male,41.0,Clothing,Jacket,2,3157.14,Debit Card,2025-10-24,Mumbai,6314.28,October,10,2025,36-45
+ORD00078,CUST0133,Female,35.0,Home & Kitchen,Bedsheet,2,1490.77,UPI,2025-02-26,Kolkata,2981.54,February,2,2025,26-35
+ORD00079,CUST0015,Male,53.0,Home & Kitchen,Water Bottle,1,539.18,UPI,2025-03-26,Mysuru,539.18,March,3,2025,46-55
+ORD00080,CUST0288,Female,18.0,Beauty,Face Wash,3,404.43,Cash on Delivery,2025-04-21,Kolkata,1213.29,April,4,2025,18-25
+ORD00081,CUST0314,Male,22.0,Home & Kitchen,Lamp,1,987.24,UPI,2025-05-05,Bengaluru,987.24,May,5,2025,18-25
+ORD00082,CUST0155,Male,64.0,Clothing,T-Shirt,2,672.02,UPI,2025-11-21,Chennai,1344.04,November,11,2025,56+
+ORD00083,CUST0181,Male,49.0,Beauty,Moisturizer,1,544.82,Credit Card,2025-09-25,Bengaluru,544.82,September,9,2025,46-55
+ORD00084,CUST0264,Other,44.0,Electronics,Power Bank,1,1132.6,UPI,2025-07-18,Mysuru,1132.6,July,7,2025,36-45
+ORD00085,CUST0244,Male,18.0,Electronics,Headphones,1,1911.97,UPI,2025-07-17,Delhi,1911.97,July,7,2025,18-25
+ORD00086,CUST0048,Male,46.0,Electronics,Power Bank,1,1414.3,Cash on Delivery,2025-11-20,Bengaluru,1414.3,November,11,2025,46-55
+ORD00087,CUST0236,Male,38.0,Beauty,Sunscreen,1,582.37,Credit Card,2025-06-13,Delhi,582.37,June,6,2025,36-45
+ORD00088,CUST0324,Male,46.0,Clothing,Sneakers,1,2507.88,UPI,2025-03-24,Mysuru,2507.88,March,3,2025,46-55
+ORD00089,CUST0263,Male,19.0,Electronics,Smartphone,1,17166.69,UPI,2025-02-19,Bengaluru,17166.69,February,2,2025,18-25
+ORD00090,CUST0169,Male,44.0,Home & Kitchen,Mixer,1,2910.18,Debit Card,2025-05-01,Kolkata,2910.18,May,5,2025,36-45
+ORD00091,CUST0184,Female,45.0,Electronics,Keyboard,2,1377.47,UPI,2025-08-27,Kolkata,2754.94,August,8,2025,36-45
+ORD00092,CUST0091,Male,31.0,Home & Kitchen,Water Bottle,3,391.63,UPI,2025-06-21,Kolkata,1174.8899999999999,June,6,2025,26-35
+ORD00093,CUST0232,Male,20.0,Clothing,Dress,2,2246.28,Debit Card,2025-06-03,Mysuru,4492.56,June,6,2025,18-25
+ORD00094,CUST0085,Female,64.0,Clothing,T-Shirt,1,693.71,Debit Card,2025-06-25,Delhi,693.71,June,6,2025,56+
+ORD00095,CUST0120,Female,52.0,Clothing,T-Shirt,1,799.36,Net Banking,2025-12-22,Mumbai,799.36,December,12,2025,46-55
+ORD00096,CUST0093,Other,47.0,Home & Kitchen,Cookware Set,3,2721.16,UPI,2025-12-31,Mumbai,8163.48,December,12,2025,46-55
+ORD00097,CUST0118,Female,54.0,Clothing,Dress,1,1742.63,UPI,2025-02-28,Delhi,1742.63,February,2,2025,46-55
+ORD00098,CUST0129,Female,50.0,Electronics,Keyboard,1,1367.12,Credit Card,2025-02-11,Hyderabad,1367.12,February,2,2025,46-55
+ORD00099,CUST0030,Female,24.0,Electronics,Power Bank,3,1361.04,Debit Card,2025-03-31,Delhi,4083.12,March,3,2025,18-25
+ORD00100,CUST0252,Female,39.0,Books,Data Analytics Book,3,706.99,UPI,2025-11-07,Mumbai,2120.9700000000003,November,11,2025,36-45
+ORD00101,CUST0155,Male,60.0,Books,Notebook,1,140.36,Credit Card,2025-06-17,Kolkata,140.36,June,6,2025,56+
+ORD00102,CUST0333,Male,31.0,Home & Kitchen,Cookware Set,2,2247.55,UPI,2025-11-12,Kolkata,4495.1,November,11,2025,26-35
+ORD00103,CUST0064,Other,64.0,Clothing,T-Shirt,1,761.04,Cash on Delivery,2025-08-25,Mumbai,761.04,August,8,2025,56+
+ORD00104,CUST0235,Male,21.0,Books,Novel,2,397.27,Cash on Delivery,2025-07-21,Mysuru,794.54,July,7,2025,18-25
+ORD00105,CUST0063,Male,33.0,Beauty,Lipstick,1,466.17,Credit Card,2025-04-13,Hyderabad,466.17,April,4,2025,26-35
+ORD00106,CUST0192,Female,34.0,Beauty,Moisturizer,1,520.67,Net Banking,2025-05-06,Mumbai,520.67,May,5,2025,26-35
+ORD00107,CUST0172,Male,47.0,Clothing,Sneakers,1,2850.2,Net Banking,2025-02-23,Kolkata,2850.2,February,2,2025,46-55
+ORD00108,CUST0158,Female,26.0,Clothing,T-Shirt,1,659.83,UPI,2025-07-09,Delhi,659.83,July,7,2025,26-35
+ORD00109,CUST0230,Female,28.0,Electronics,Smartphone,2,18008.73,UPI,2025-04-13,Bengaluru,36017.46,April,4,2025,26-35
+ORD00110,CUST0290,Other,49.0,Books,Data Analytics Book,1,751.04,Debit Card,2025-04-17,Mysuru,751.04,April,4,2025,46-55
+ORD00111,CUST0111,Male,31.0,Clothing,Jeans,3,1501.7,UPI,2025-01-15,Bengaluru,4505.1,January,1,2025,26-35
+ORD00112,CUST0298,Female,60.0,Electronics,Power Bank,2,1345.83,Credit Card,2025-10-19,Delhi,2691.66,October,10,2025,56+
+ORD00113,CUST0065,Male,59.0,Clothing,Dress,1,2128.28,UPI,2025-12-09,Mumbai,2128.28,December,12,2025,56+
+ORD00114,CUST0103,Female,32.0,Home & Kitchen,Lamp,2,835.05,Net Banking,2025-07-01,Pune,1670.1,July,7,2025,26-35
+ORD00115,CUST0109,Female,44.0,Electronics,Power Bank,1,1370.75,Credit Card,2025-07-15,Kolkata,1370.75,July,7,2025,36-45
+ORD00116,CUST0334,Female,33.0,Beauty,Moisturizer,1,508.52,Debit Card,2025-12-04,Mysuru,508.52,December,12,2025,26-35
+ORD00117,CUST0042,Female,34.0,Beauty,Lipstick,1,425.75,Credit Card,2025-07-06,Kolkata,425.75,July,7,2025,26-35
+ORD00118,CUST0139,Male,50.0,Beauty,Shampoo,2,419.96,UPI,2025-08-16,Hyderabad,839.92,August,8,2025,46-55
+ORD00119,CUST0149,Female,32.0,Clothing,Jacket,2,3354.2,Cash on Delivery,2025-06-06,Mumbai,6708.4,June,6,2025,26-35
+ORD00120,CUST0281,Male,25.0,Home & Kitchen,Cookware Set,3,2158.81,UPI,2025-07-07,Delhi,6476.43,July,7,2025,18-25
+ORD00121,CUST0171,Female,30.0,Home & Kitchen,Cookware Set,3,2307.0,UPI,2025-07-10,Delhi,6921.0,July,7,2025,26-35
+ORD00122,CUST0339,Male,62.0,Home & Kitchen,Lamp,3,876.88,UPI,2025-09-17,Mysuru,2630.64,September,9,2025,56+
+ORD00123,CUST0260,Male,30.0,Electronics,Laptop Stand,1,1020.13,Debit Card,2025-08-09,Pune,1020.13,August,8,2025,26-35
+ORD00124,CUST0247,Male,35.0,Clothing,Sneakers,3,2114.8,UPI,2025-07-03,Bengaluru,6344.400000000001,July,7,2025,26-35
+ORD00125,CUST0264,Female,48.0,Electronics,Power Bank,1,1186.0,UPI,2025-01-28,Bengaluru,1186.0,January,1,2025,46-55
+ORD00126,CUST0057,Male,22.0,Clothing,Jeans,1,1778.36,UPI,2025-11-27,Mumbai,1778.36,November,11,2025,18-25
+ORD00127,CUST0158,Male,30.0,Clothing,Jeans,1,1568.06,UPI,2025-11-21,Mysuru,1568.06,November,11,2025,26-35
+ORD00128,CUST0206,Female,26.0,Electronics,Power Bank,1,1099.31,UPI,2025-03-09,Bengaluru,1099.31,March,3,2025,26-35
+ORD00129,CUST0073,Female,62.0,Electronics,Headphones,1,1653.16,Credit Card,2025-04-18,Delhi,1653.16,April,4,2025,56+
+ORD00130,CUST0042,Female,62.0,Home & Kitchen,Water Bottle,1,447.08,UPI,2025-12-22,Delhi,447.08,December,12,2025,56+
+ORD00131,CUST0048,Female,54.0,Electronics,Power Bank,1,1221.36,UPI,2025-04-28,Mysuru,1221.36,April,4,2025,46-55
+ORD00132,CUST0277,Female,29.0,Books,Notebook,1,138.2,Debit Card,2025-10-24,Pune,138.2,October,10,2025,26-35
+ORD00133,CUST0230,Female,47.0,Home & Kitchen,Bedsheet,3,1397.22,Debit Card,2025-10-14,Kolkata,4191.66,October,10,2025,46-55
+ORD00134,CUST0099,Female,49.0,Clothing,Jeans,2,1746.63,UPI,2025-11-11,Chennai,3493.26,November,11,2025,46-55
+ORD00135,CUST0259,Male,59.0,Home & Kitchen,Bedsheet,1,1552.26,UPI,2025-01-06,Hyderabad,1552.26,January,1,2025,56+
+ORD00136,CUST0244,Female,25.0,Electronics,Power Bank,1,1192.97,UPI,2025-06-26,Kolkata,1192.97,June,6,2025,18-25
+ORD00137,CUST0286,Female,53.0,Books,Cookbook,1,495.59,Net Banking,2025-07-26,Mumbai,495.59,July,7,2025,46-55
+ORD00138,CUST0319,Male,27.0,Clothing,T-Shirt,1,821.22,UPI,2025-11-02,Delhi,821.22,November,11,2025,26-35
+ORD00139,CUST0309,Female,45.0,Beauty,Shampoo,2,374.42,UPI,2025-03-23,Bengaluru,748.84,March,3,2025,36-45
+ORD00140,CUST0064,Female,60.0,Electronics,Laptop Stand,1,994.89,Credit Card,2025-04-22,Chennai,994.89,April,4,2025,56+
+ORD00141,CUST0270,Female,20.0,Clothing,Sneakers,2,2673.84,UPI,2025-03-07,Bengaluru,5347.68,March,3,2025,18-25
+ORD00142,CUST0138,Female,25.0,Clothing,Dress,2,1680.03,UPI,2025-10-06,Chennai,3360.06,October,10,2025,18-25
+ORD00143,CUST0142,Female,57.0,Books,Notebook,1,121.67,UPI,2025-12-31,Pune,121.67,December,12,2025,56+
+ORD00144,CUST0227,Female,18.0,Home & Kitchen,Cookware Set,2,2300.49,Debit Card,2025-02-21,Mysuru,4600.98,February,2,2025,18-25
+ORD00145,CUST0211,Female,50.0,Clothing,Jeans,1,1463.81,Debit Card,2025-03-27,Hyderabad,1463.81,March,3,2025,46-55
+ORD00146,CUST0147,Other,42.0,Clothing,Jacket,3,2834.55,Debit Card,2025-04-23,Mumbai,8503.650000000001,April,4,2025,36-45
+ORD00147,CUST0350,Male,34.0,Clothing,T-Shirt,2,665.91,Debit Card,2025-11-21,Delhi,1331.82,November,11,2025,26-35
+ORD00148,CUST0062,Female,59.0,Home & Kitchen,Lamp,2,959.33,UPI,2025-06-12,Hyderabad,1918.66,June,6,2025,56+
+ORD00149,CUST0034,Female,58.0,Clothing,Dress,2,2218.56,Cash on Delivery,2025-04-13,Mysuru,4437.12,April,4,2025,56+
+ORD00150,CUST0011,Female,33.0,Electronics,Keyboard,2,1696.43,Debit Card,2025-04-28,Pune,3392.86,April,4,2025,26-35
+ORD00151,CUST0285,Male,18.0,Beauty,Moisturizer,4,518.71,Cash on Delivery,2025-08-07,Delhi,2074.84,August,8,2025,18-25
+ORD00152,CUST0143,Male,24.0,Books,Data Analytics Book,1,709.46,Debit Card,2025-05-22,Delhi,709.46,May,5,2025,18-25
+ORD00153,CUST0154,Female,23.0,Electronics,Keyboard,2,1408.73,UPI,2025-02-21,Pune,2817.46,February,2,2025,18-25
+ORD00154,CUST0228,Female,65.0,Home & Kitchen,Bedsheet,2,1166.44,UPI,2025-10-27,Mysuru,2332.88,October,10,2025,56+
+ORD00155,CUST0153,Female,46.0,Electronics,Power Bank,1,1416.4,Credit Card,2025-06-04,Delhi,1416.4,June,6,2025,46-55
+ORD00156,CUST0201,Male,50.0,Home & Kitchen,Bedsheet,3,1287.93,UPI,2025-04-04,Kolkata,3863.79,April,4,2025,46-55
+ORD00157,CUST0021,Male,29.0,Clothing,Jacket,1,2600.2,Credit Card,2025-09-23,Delhi,2600.2,September,9,2025,26-35
+ORD00158,CUST0055,Female,58.0,Home & Kitchen,Cookware Set,1,2865.84,UPI,2025-09-30,Bengaluru,2865.84,September,9,2025,56+
+ORD00159,CUST0327,Male,52.0,Beauty,Lipstick,1,494.86,UPI,2025-02-26,Mumbai,494.86,February,2,2025,46-55
+ORD00160,CUST0158,Female,54.0,Beauty,Moisturizer,1,474.26,Cash on Delivery,2025-01-27,Kolkata,474.26,January,1,2025,46-55
+ORD00161,CUST0059,Male,40.0,Electronics,Keyboard,2,1360.02,Debit Card,2025-01-17,Pune,2720.04,January,1,2025,36-45
+ORD00162,CUST0130,Male,51.0,Books,Data Analytics Book,1,805.3,Credit Card,2025-10-07,Pune,805.3,October,10,2025,46-55
+ORD00163,CUST0118,Female,44.0,Electronics,Laptop Stand,1,1011.62,UPI,2025-08-17,Mumbai,1011.62,August,8,2025,36-45
+ORD00164,CUST0096,Female,36.0,Electronics,Keyboard,1,1385.74,Credit Card,2025-10-17,Pune,1385.74,October,10,2025,36-45
+ORD00165,CUST0103,Male,46.0,Home & Kitchen,Lamp,1,995.43,Cash on Delivery,2025-08-17,Delhi,995.43,August,8,2025,46-55
+ORD00166,CUST0256,Female,33.0,Clothing,Dress,2,2180.91,Debit Card,2025-05-27,Pune,4361.82,May,5,2025,26-35
+ORD00167,CUST0038,Male,63.0,Beauty,Moisturizer,3,630.81,Debit Card,2025-08-04,Mumbai,1892.4299999999998,August,8,2025,56+
+ORD00168,CUST0109,Female,52.0,Beauty,Lipstick,1,464.84,Credit Card,2025-09-21,Mysuru,464.84,September,9,2025,46-55
+ORD00169,CUST0164,Male,53.0,Clothing,Dress,1,1648.61,UPI,2025-05-26,Kolkata,1648.61,May,5,2025,46-55
+ORD00170,CUST0190,Female,52.0,Books,Notebook,1,138.43,Debit Card,2025-12-01,Chennai,138.43,December,12,2025,46-55
+ORD00171,CUST0309,Female,39.0,Clothing,T-Shirt,1,669.92,Net Banking,2025-11-25,Chennai,669.92,November,11,2025,36-45
+ORD00172,CUST0324,Female,63.0,Home & Kitchen,Cookware Set,1,2666.55,Credit Card,2025-10-20,Pune,2666.55,October,10,2025,56+
+ORD00173,CUST0105,Female,27.0,Clothing,Dress,1,2120.38,Credit Card,2025-12-29,Mysuru,2120.38,December,12,2025,26-35
+ORD00174,CUST0189,Female,45.0,Books,Biography,1,402.71,Credit Card,2025-05-23,Chennai,402.71,May,5,2025,36-45
+ORD00175,CUST0008,Male,21.0,Electronics,Smartphone,1,20219.28,Credit Card,2025-02-11,Mysuru,20219.28,February,2,2025,18-25
+ORD00176,CUST0216,Female,32.0,Electronics,Power Bank,1,1414.17,Net Banking,2025-06-26,Mumbai,1414.17,June,6,2025,26-35
+ORD00177,CUST0054,Female,45.0,Clothing,T-Shirt,1,773.45,Debit Card,2025-09-30,Bengaluru,773.45,September,9,2025,36-45
+ORD00178,CUST0026,Female,41.0,Books,Cookbook,2,502.21,UPI,2025-10-12,Mysuru,1004.42,October,10,2025,36-45
+ORD00179,CUST0236,Female,63.0,Books,Biography,2,520.58,UPI,2025-05-22,Kolkata,1041.16,May,5,2025,56+
+ORD00180,CUST0063,Male,47.0,Beauty,Shampoo,1,413.84,Credit Card,2025-04-17,Mumbai,413.84,April,4,2025,46-55
+ORD00181,CUST0168,Male,37.0,Books,Biography,2,499.8,UPI,2025-06-12,Delhi,999.6,June,6,2025,36-45
+ORD00182,CUST0036,Female,38.0,Books,Data Analytics Book,2,852.88,Credit Card,2025-10-21,Delhi,1705.76,October,10,2025,36-45
+ORD00183,CUST0261,Male,47.0,Home & Kitchen,Cookware Set,1,2780.68,Cash on Delivery,2025-01-23,Chennai,2780.68,January,1,2025,46-55
+ORD00184,CUST0268,Male,55.0,Clothing,Sneakers,1,2281.8,Debit Card,2025-04-30,Hyderabad,2281.8,April,4,2025,46-55
+ORD00185,CUST0202,Other,31.0,Beauty,Sunscreen,1,534.75,UPI,2025-03-25,Hyderabad,534.75,March,3,2025,26-35
+ORD00186,CUST0293,Female,46.0,Home & Kitchen,Water Bottle,2,420.04,Debit Card,2025-10-22,Pune,840.08,October,10,2025,46-55
+ORD00187,CUST0153,Female,45.0,Clothing,Jeans,1,1641.61,Debit Card,2025-06-21,Delhi,1641.61,June,6,2025,36-45
+ORD00188,CUST0066,Female,43.0,Electronics,Smartphone,2,18483.24,UPI,2025-02-01,Pune,36966.48,February,2,2025,36-45
+ORD00189,CUST0053,Male,61.0,Beauty,Shampoo,1,421.57,Debit Card,2025-04-06,Kolkata,421.57,April,4,2025,56+
+ORD00190,CUST0077,Male,45.0,Clothing,Jacket,1,2767.2,Debit Card,2025-01-17,Chennai,2767.2,January,1,2025,36-45
+ORD00191,CUST0071,Female,29.0,Books,Data Analytics Book,3,844.06,Cash on Delivery,2025-06-23,Bengaluru,2532.18,June,6,2025,26-35
+ORD00192,CUST0114,Female,48.0,Electronics,Laptop Stand,1,1052.64,UPI,2025-12-31,Mumbai,1052.64,December,12,2025,46-55
+ORD00193,CUST0076,Male,50.0,Electronics,Smartphone,3,16854.37,UPI,2025-07-27,Hyderabad,50563.11,July,7,2025,46-55
+ORD00194,CUST0207,Male,61.0,Beauty,Moisturizer,4,609.28,Credit Card,2025-11-14,Delhi,2437.12,November,11,2025,56+
+ORD00195,CUST0052,Female,19.0,Electronics,Power Bank,3,1304.75,UPI,2025-09-29,Mumbai,3914.25,September,9,2025,18-25
+ORD00196,CUST0218,Male,37.0,Electronics,Keyboard,1,1549.62,Credit Card,2025-11-19,Mumbai,1549.62,November,11,2025,36-45
+ORD00197,CUST0117,Female,26.0,Home & Kitchen,Water Bottle,2,412.19,Debit Card,2025-04-24,Bengaluru,824.38,April,4,2025,26-35
+ORD00198,CUST0241,Female,45.0,Beauty,Lipstick,1,564.17,UPI,2025-12-14,Mysuru,564.17,December,12,2025,36-45
+ORD00199,CUST0180,Male,42.0,Electronics,Laptop Stand,1,1067.6,Credit Card,2025-03-29,Pune,1067.6,March,3,2025,36-45
+ORD00200,CUST0317,Male,40.0,Clothing,T-Shirt,3,771.85,Net Banking,2025-06-09,Bengaluru,2315.55,June,6,2025,36-45
+ORD00201,CUST0154,Other,65.0,Beauty,Moisturizer,2,644.19,Credit Card,2025-09-06,Pune,1288.38,September,9,2025,56+
+ORD00202,CUST0104,Female,43.0,Books,Novel,1,418.06,Credit Card,2025-04-15,Mumbai,418.06,April,4,2025,36-45
+ORD00203,CUST0207,Female,37.0,Home & Kitchen,Mixer,1,3114.3,Credit Card,2025-04-07,Pune,3114.3,April,4,2025,36-45
+ORD00204,CUST0231,Female,21.0,Electronics,Smartphone,2,19320.81,UPI,2025-02-17,Mumbai,38641.62,February,2,2025,18-25
+ORD00205,CUST0154,Female,31.0,Electronics,Laptop Stand,2,914.29,UPI,2025-01-02,Pune,1828.58,January,1,2025,26-35
+ORD00206,CUST0196,Female,61.0,Electronics,Power Bank,1,1434.38,Debit Card,2025-07-02,Hyderabad,1434.38,July,7,2025,56+
+ORD00207,CUST0165,Female,39.0,Electronics,Headphones,3,1589.1,Credit Card,2025-12-27,Pune,4767.299999999999,December,12,2025,36-45
+ORD00208,CUST0108,Female,61.0,Home & Kitchen,Lamp,1,845.18,UPI,2025-03-22,Bengaluru,845.18,March,3,2025,56+
+ORD00209,CUST0110,Female,43.0,Electronics,Smartphone,1,20815.9,UPI,2025-06-10,Pune,20815.9,June,6,2025,36-45
+ORD00210,CUST0318,Female,44.0,Home & Kitchen,Mixer,2,3038.14,Cash on Delivery,2025-12-08,Mumbai,6076.28,December,12,2025,36-45
+ORD00211,CUST0237,Male,38.0,Home & Kitchen,Cookware Set,4,2814.32,UPI,2025-10-09,Mumbai,11257.28,October,10,2025,36-45
+ORD00212,CUST0034,Female,44.0,Home & Kitchen,Cookware Set,1,2459.94,Debit Card,2025-01-02,Bengaluru,2459.94,January,1,2025,36-45
+ORD00213,CUST0337,Male,21.0,Electronics,Power Bank,1,1431.59,Credit Card,2025-07-02,Kolkata,1431.59,July,7,2025,18-25
+ORD00214,CUST0250,Male,20.0,Beauty,Face Wash,1,405.73,Credit Card,2025-02-22,Chennai,405.73,February,2,2025,18-25
+ORD00215,CUST0018,Male,40.0,Beauty,Face Wash,2,334.41,UPI,2025-04-01,Kolkata,668.82,April,4,2025,36-45
+ORD00216,CUST0255,Female,46.0,Beauty,Moisturizer,1,615.76,UPI,2025-03-31,Hyderabad,615.76,March,3,2025,46-55
+ORD00217,CUST0207,Female,44.0,Electronics,Laptop Stand,1,871.11,Credit Card,2025-08-12,Mysuru,871.11,August,8,2025,36-45
+ORD00218,CUST0321,Male,38.0,Electronics,Keyboard,4,1593.34,Debit Card,2025-03-14,Mumbai,6373.36,March,3,2025,36-45
+ORD00219,CUST0172,Male,32.0,Books,Data Analytics Book,1,810.35,UPI,2025-04-02,Delhi,810.35,April,4,2025,26-35
+ORD00220,CUST0182,Female,52.0,Clothing,T-Shirt,1,798.25,Credit Card,2025-03-24,Mysuru,798.25,March,3,2025,46-55
+ORD00221,CUST0111,Female,47.0,Clothing,Dress,1,1631.26,Credit Card,2025-05-11,Kolkata,1631.26,May,5,2025,46-55
+ORD00222,CUST0113,Male,20.0,Clothing,T-Shirt,2,648.94,UPI,2025-08-28,Kolkata,1297.88,August,8,2025,18-25
+ORD00223,CUST0217,Female,39.0,Home & Kitchen,Mixer,1,3517.35,Credit Card,2025-05-26,Hyderabad,3517.35,May,5,2025,36-45
+ORD00224,CUST0290,Male,52.0,Books,Cookbook,1,523.62,UPI,2025-04-30,Hyderabad,523.62,April,4,2025,46-55
+ORD00225,CUST0312,Female,55.0,Clothing,Jacket,1,2865.69,Credit Card,2025-07-08,Chennai,2865.69,July,7,2025,46-55
+ORD00226,CUST0270,Female,31.0,Books,Biography,2,391.2,UPI,2025-08-13,Chennai,782.4,August,8,2025,26-35
+ORD00227,CUST0214,Male,62.0,Electronics,Keyboard,2,1457.84,Credit Card,2025-01-06,Bengaluru,2915.68,January,1,2025,56+
+ORD00228,CUST0176,Female,49.0,Home & Kitchen,Lamp,1,979.87,UPI,2025-11-21,Hyderabad,979.87,November,11,2025,46-55
+ORD00229,CUST0119,Male,39.0,Home & Kitchen,Water Bottle,1,387.37,Credit Card,2025-12-01,Pune,387.37,December,12,2025,36-45
+ORD00230,CUST0269,Female,48.0,Electronics,Keyboard,3,1483.13,Credit Card,2025-08-08,Pune,4449.39,August,8,2025,46-55
+ORD00231,CUST0112,Female,59.0,Electronics,Power Bank,1,1416.96,Cash on Delivery,2025-07-29,Hyderabad,1416.96,July,7,2025,56+
+ORD00232,CUST0094,Male,28.0,Clothing,T-Shirt,1,607.47,Credit Card,2025-09-11,Kolkata,607.47,September,9,2025,26-35
+ORD00233,CUST0304,Female,25.0,Books,Notebook,1,133.49,Cash on Delivery,2025-06-10,Hyderabad,133.49,June,6,2025,18-25
+ORD00234,CUST0207,Female,39.0,Home & Kitchen,Mixer,1,3008.53,UPI,2025-05-14,Delhi,3008.53,May,5,2025,36-45
+ORD00235,CUST0124,Male,22.0,Books,Cookbook,1,576.66,UPI,2025-05-09,Delhi,576.66,May,5,2025,18-25
+ORD00236,CUST0303,Male,58.0,Beauty,Sunscreen,1,666.67,UPI,2025-02-28,Chennai,666.67,February,2,2025,56+
+ORD00237,CUST0337,Male,64.0,Clothing,Jeans,1,1855.99,Credit Card,2025-11-04,Kolkata,1855.99,November,11,2025,56+
+ORD00238,CUST0112,Female,47.0,Beauty,Moisturizer,1,509.07,Debit Card,2025-04-28,Mysuru,509.07,April,4,2025,46-55
+ORD00239,CUST0183,Female,65.0,Electronics,Laptop Stand,2,932.36,Cash on Delivery,2025-04-14,Mumbai,1864.72,April,4,2025,56+
+ORD00240,CUST0170,Male,21.0,Electronics,Keyboard,1,1684.12,Credit Card,2025-12-18,Chennai,1684.12,December,12,2025,18-25
+ORD00241,CUST0246,Female,48.0,Beauty,Moisturizer,1,514.8,Debit Card,2025-07-04,Pune,514.8,July,7,2025,46-55
+ORD00242,CUST0333,Female,39.0,Beauty,Sunscreen,2,558.46,UPI,2025-08-15,Delhi,1116.92,August,8,2025,36-45
+ORD00243,CUST0192,Male,31.0,Electronics,Laptop Stand,1,773.56,UPI,2025-03-31,Chennai,773.56,March,3,2025,26-35
+ORD00244,CUST0280,Female,32.0,Home & Kitchen,Mixer,2,3793.54,Debit Card,2025-04-12,Bengaluru,7587.08,April,4,2025,26-35
+ORD00245,CUST0209,Female,44.0,Home & Kitchen,Cookware Set,1,2746.26,UPI,2025-09-23,Mumbai,2746.26,September,9,2025,36-45
+ORD00246,CUST0311,Female,48.0,Beauty,Lipstick,2,536.22,UPI,2025-06-14,Kolkata,1072.44,June,6,2025,46-55
+ORD00247,CUST0142,Female,25.0,Home & Kitchen,Bedsheet,1,1443.52,Cash on Delivery,2025-02-23,Hyderabad,1443.52,February,2,2025,18-25
+ORD00248,CUST0135,Male,47.0,Clothing,T-Shirt,1,725.25,Net Banking,2025-11-01,Pune,725.25,November,11,2025,46-55
+ORD00249,CUST0148,Male,62.0,Clothing,T-Shirt,1,711.65,Debit Card,2025-05-28,Mysuru,711.65,May,5,2025,56+
+ORD00250,CUST0349,Female,18.0,Clothing,Jacket,1,2820.54,UPI,2025-09-01,Mumbai,2820.54,September,9,2025,18-25
+ORD00251,CUST0215,Female,60.0,Home & Kitchen,Bedsheet,1,1396.4,Cash on Delivery,2025-05-05,Kolkata,1396.4,May,5,2025,56+
+ORD00252,CUST0054,Male,47.0,Beauty,Shampoo,2,368.21,UPI,2025-07-24,Kolkata,736.42,July,7,2025,46-55
+ORD00253,CUST0015,Female,34.0,Clothing,Jeans,2,1857.31,Credit Card,2025-10-11,Kolkata,3714.62,October,10,2025,26-35
+ORD00254,CUST0182,Male,53.0,Electronics,Laptop Stand,1,1020.7,UPI,2025-11-20,Mumbai,1020.7,November,11,2025,46-55
+ORD00255,CUST0282,Male,47.0,Electronics,Smartphone,3,17502.25,Cash on Delivery,2025-03-17,Pune,52506.75,March,3,2025,46-55
+ORD00256,CUST0168,Male,54.0,Beauty,Sunscreen,2,631.51,Cash on Delivery,2025-09-03,Delhi,1263.02,September,9,2025,46-55
+ORD00257,CUST0197,Female,21.0,Beauty,Sunscreen,2,539.62,Debit Card,2025-11-30,Pune,1079.24,November,11,2025,18-25
+ORD00258,CUST0280,Other,20.0,Electronics,Power Bank,2,1428.39,UPI,2025-08-23,Pune,2856.78,August,8,2025,18-25
+ORD00259,CUST0181,Female,48.0,Electronics,Headphones,2,2098.82,Credit Card,2025-02-22,Delhi,4197.64,February,2,2025,46-55
+ORD00260,CUST0319,Male,32.0,Home & Kitchen,Lamp,1,996.76,UPI,2025-03-11,Mumbai,996.76,March,3,2025,26-35
+ORD00261,CUST0224,Male,29.0,Electronics,Headphones,2,1739.26,Cash on Delivery,2025-03-16,Kolkata,3478.52,March,3,2025,26-35
+ORD00262,CUST0256,Male,38.0,Beauty,Lipstick,3,454.6,UPI,2025-02-08,Delhi,1363.8000000000002,February,2,2025,36-45
+ORD00263,CUST0274,Male,52.0,Clothing,T-Shirt,1,646.88,UPI,2025-10-03,Delhi,646.88,October,10,2025,46-55
+ORD00264,CUST0220,Male,26.0,Electronics,Laptop Stand,1,793.35,Debit Card,2025-12-19,Chennai,793.35,December,12,2025,26-35
+ORD00265,CUST0018,Female,64.0,Books,Novel,1,312.21,Credit Card,2025-07-08,Kolkata,312.21,July,7,2025,56+
+ORD00266,CUST0150,Female,38.0,Electronics,Headphones,3,1574.92,Cash on Delivery,2025-08-07,Mysuru,4724.76,August,8,2025,36-45
+ORD00267,CUST0050,Male,25.0,Clothing,Sneakers,1,2871.45,UPI,2025-10-10,Kolkata,2871.45,October,10,2025,18-25
+ORD00268,CUST0179,Male,21.0,Electronics,Power Bank,2,1051.1,Cash on Delivery,2025-06-01,Delhi,2102.2,June,6,2025,18-25
+ORD00269,CUST0051,Female,59.0,Electronics,Headphones,2,1613.5,UPI,2025-06-22,Bengaluru,3227.0,June,6,2025,56+
+ORD00270,CUST0179,Male,23.0,Electronics,Keyboard,4,1709.31,UPI,2025-08-03,Mumbai,6837.24,August,8,2025,18-25
+ORD00271,CUST0121,Male,38.0,Electronics,Smartphone,1,18955.51,Credit Card,2025-04-22,Delhi,18955.51,April,4,2025,36-45
+ORD00272,CUST0008,Female,50.0,Electronics,Smartphone,2,20178.83,UPI,2025-01-23,Chennai,40357.66,January,1,2025,46-55
+ORD00273,CUST0044,Female,42.0,Electronics,Smartphone,3,19274.75,Credit Card,2025-07-27,Hyderabad,57824.25,July,7,2025,36-45
+ORD00274,CUST0177,Female,30.0,Home & Kitchen,Bedsheet,1,1506.39,UPI,2025-10-28,Mysuru,1506.39,October,10,2025,26-35
+ORD00275,CUST0028,Female,23.0,Home & Kitchen,Mixer,2,3435.08,UPI,2025-01-27,Delhi,6870.16,January,1,2025,18-25
+ORD00276,CUST0300,Female,52.0,Clothing,Jacket,1,2891.68,Debit Card,2025-03-21,Mysuru,2891.68,March,3,2025,46-55
+ORD00277,CUST0266,Female,41.0,Clothing,Jeans,2,1759.14,UPI,2025-04-06,Mumbai,3518.28,April,4,2025,36-45
+ORD00278,CUST0249,Female,20.0,Home & Kitchen,Mixer,1,3221.08,Debit Card,2025-10-21,Chennai,3221.08,October,10,2025,18-25
+ORD00279,CUST0061,Female,26.0,Beauty,Moisturizer,1,534.12,Debit Card,2025-07-04,Pune,534.12,July,7,2025,26-35
+ORD00280,CUST0279,Male,45.0,Beauty,Sunscreen,1,608.21,UPI,2025-07-15,Mysuru,608.21,July,7,2025,36-45
+ORD00281,CUST0223,Female,26.0,Electronics,Power Bank,1,1091.28,Debit Card,2025-08-24,Hyderabad,1091.28,August,8,2025,26-35
+ORD00282,CUST0137,Other,36.0,Electronics,Smartphone,1,20318.4,UPI,2025-04-11,Delhi,20318.4,April,4,2025,36-45
+ORD00283,CUST0001,Male,23.0,Electronics,Smartphone,2,16942.43,Credit Card,2025-09-18,Mumbai,33884.86,September,9,2025,18-25
+ORD00284,CUST0186,Male,56.0,Electronics,Power Bank,1,1084.48,UPI,2025-01-12,Chennai,1084.48,January,1,2025,56+
+ORD00285,CUST0279,Male,48.0,Home & Kitchen,Cookware Set,1,2340.56,Cash on Delivery,2025-02-11,Mysuru,2340.56,February,2,2025,46-55
+ORD00286,CUST0012,Male,55.0,Clothing,Dress,2,2174.98,Credit Card,2025-10-25,Pune,4349.96,October,10,2025,46-55
+ORD00287,CUST0019,Female,20.0,Electronics,Keyboard,2,1448.36,Credit Card,2025-08-29,Delhi,2896.72,August,8,2025,18-25
+ORD00288,CUST0135,Male,36.0,Clothing,Dress,1,2071.22,Net Banking,2025-03-06,Bengaluru,2071.22,March,3,2025,36-45
+ORD00289,CUST0180,Female,30.0,Home & Kitchen,Lamp,3,977.28,UPI,2025-06-10,Pune,2931.84,June,6,2025,26-35
+ORD00290,CUST0167,Male,47.0,Electronics,Laptop Stand,1,789.49,Cash on Delivery,2025-01-19,Pune,789.49,January,1,2025,46-55
+ORD00291,CUST0150,Male,57.0,Beauty,Moisturizer,2,614.77,Debit Card,2025-09-03,Hyderabad,1229.54,September,9,2025,56+
+ORD00292,CUST0090,Female,28.0,Electronics,Smartphone,1,17238.29,Cash on Delivery,2025-10-03,Chennai,17238.29,October,10,2025,26-35
+ORD00293,CUST0021,Female,54.0,Books,Data Analytics Book,2,694.36,Cash on Delivery,2025-04-12,Mysuru,1388.72,April,4,2025,46-55
+ORD00294,CUST0011,Male,45.0,Electronics,Power Bank,4,1309.34,Net Banking,2025-05-08,Mumbai,5237.36,May,5,2025,36-45
+ORD00295,CUST0035,Female,57.0,Beauty,Sunscreen,2,701.06,UPI,2025-03-28,Mumbai,1402.12,March,3,2025,56+
+ORD00296,CUST0242,Female,21.0,Books,Notebook,1,114.39,Debit Card,2025-05-23,Pune,114.39,May,5,2025,18-25
+ORD00297,CUST0276,Female,65.0,Books,Novel,2,367.18,Cash on Delivery,2025-04-10,Mumbai,734.36,April,4,2025,56+
+ORD00298,CUST0153,Female,38.0,Beauty,Shampoo,1,380.58,Debit Card,2025-04-01,Chennai,380.58,April,4,2025,36-45
+ORD00299,CUST0028,Male,31.0,Beauty,Moisturizer,2,574.2,UPI,2025-06-07,Mumbai,1148.4,June,6,2025,26-35
+ORD00300,CUST0146,Male,26.0,Home & Kitchen,Lamp,2,907.5,Net Banking,2025-11-10,Hyderabad,1815.0,November,11,2025,26-35
+ORD00301,CUST0345,Female,65.0,Beauty,Moisturizer,4,584.99,UPI,2025-10-06,Mysuru,2339.96,October,10,2025,56+
+ORD00302,CUST0088,Female,60.0,Electronics,Headphones,1,1922.83,Credit Card,2025-04-19,Hyderabad,1922.83,April,4,2025,56+
+ORD00303,CUST0172,Female,24.0,Home & Kitchen,Bedsheet,1,1166.46,Credit Card,2025-12-11,Bengaluru,1166.46,December,12,2025,18-25
+ORD00304,CUST0189,Female,39.0,Home & Kitchen,Lamp,1,928.83,UPI,2025-03-18,Chennai,928.83,March,3,2025,36-45
+ORD00305,CUST0116,Male,53.0,Beauty,Lipstick,1,543.08,Debit Card,2025-11-29,Bengaluru,543.08,November,11,2025,46-55
+ORD00306,CUST0154,Male,46.0,Clothing,T-Shirt,1,762.23,UPI,2025-04-23,Kolkata,762.23,April,4,2025,46-55
+ORD00307,CUST0166,Female,27.0,Clothing,Jeans,1,1401.48,UPI,2025-07-17,Pune,1401.48,July,7,2025,26-35
+ORD00308,CUST0166,Male,35.0,Home & Kitchen,Mixer,2,3220.46,Cash on Delivery,2025-03-16,Hyderabad,6440.92,March,3,2025,26-35
+ORD00309,CUST0252,Female,35.0,Clothing,Jeans,1,1589.06,UPI,2025-10-06,Kolkata,1589.06,October,10,2025,26-35
+ORD00310,CUST0204,Male,31.0,Electronics,Laptop Stand,1,792.31,Debit Card,2025-04-26,Pune,792.31,April,4,2025,26-35
+ORD00311,CUST0019,Male,64.0,Clothing,Jeans,1,1484.53,UPI,2025-11-15,Mysuru,1484.53,November,11,2025,56+
+ORD00312,CUST0003,Male,27.0,Clothing,T-Shirt,3,703.04,Cash on Delivery,2025-01-31,Chennai,2109.12,January,1,2025,26-35
+ORD00313,CUST0144,Male,51.0,Electronics,Laptop Stand,2,999.02,Net Banking,2025-07-03,Delhi,1998.04,July,7,2025,46-55
+ORD00314,CUST0318,Male,61.0,Clothing,T-Shirt,1,653.08,UPI,2025-02-27,Pune,653.08,February,2,2025,56+
+ORD00315,CUST0013,Female,56.0,Clothing,Jeans,1,1824.66,Debit Card,2025-11-21,Pune,1824.66,November,11,2025,56+
+ORD00316,CUST0025,Female,56.0,Clothing,T-Shirt,1,728.72,Credit Card,2025-06-02,Kolkata,728.72,June,6,2025,56+
+ORD00317,CUST0238,Female,25.0,Clothing,T-Shirt,1,781.3,Credit Card,2025-09-04,Delhi,781.3,September,9,2025,18-25
+ORD00318,CUST0158,Male,24.0,Home & Kitchen,Bedsheet,1,1320.01,Debit Card,2025-11-18,Mysuru,1320.01,November,11,2025,18-25
+ORD00319,CUST0081,Male,55.0,Clothing,Dress,1,1946.96,Credit Card,2025-07-15,Mysuru,1946.96,July,7,2025,46-55
+ORD00320,CUST0073,Male,53.0,Books,Biography,3,480.11,Debit Card,2025-01-21,Mysuru,1440.33,January,1,2025,46-55
+ORD00321,CUST0233,Male,53.0,Books,Novel,1,411.18,UPI,2025-03-22,Kolkata,411.18,March,3,2025,46-55
+ORD00322,CUST0184,Female,38.0,Clothing,T-Shirt,2,715.49,UPI,2025-03-19,Hyderabad,1430.98,March,3,2025,36-45
+ORD00323,CUST0224,Male,43.0,Clothing,Jeans,1,1656.05,Cash on Delivery,2025-11-30,Mumbai,1656.05,November,11,2025,36-45
+ORD00324,CUST0099,Male,18.0,Home & Kitchen,Cookware Set,3,2651.75,UPI,2025-11-28,Delhi,7955.25,November,11,2025,18-25
+ORD00325,CUST0185,Female,31.0,Beauty,Sunscreen,4,664.88,Credit Card,2025-06-24,Mysuru,2659.52,June,6,2025,26-35
+ORD00326,CUST0302,Female,43.0,Home & Kitchen,Lamp,2,743.88,UPI,2025-11-21,Hyderabad,1487.76,November,11,2025,36-45
+ORD00327,CUST0111,Female,24.0,Beauty,Moisturizer,1,566.77,Cash on Delivery,2025-03-31,Delhi,566.77,March,3,2025,18-25
+ORD00328,CUST0139,Female,24.0,Home & Kitchen,Mixer,1,3259.38,Credit Card,2025-09-05,Pune,3259.38,September,9,2025,18-25
+ORD00329,CUST0058,Male,20.0,Home & Kitchen,Mixer,2,3752.29,Credit Card,2025-05-24,Bengaluru,7504.58,May,5,2025,18-25
+ORD00330,CUST0224,Male,28.0,Clothing,T-Shirt,2,715.91,UPI,2025-03-29,Kolkata,1431.82,March,3,2025,26-35
+ORD00331,CUST0012,Male,65.0,Beauty,Face Wash,1,354.87,Credit Card,2025-04-02,Bengaluru,354.87,April,4,2025,56+
+ORD00332,CUST0088,Female,51.0,Electronics,Keyboard,1,1780.15,Net Banking,2025-06-03,Delhi,1780.15,June,6,2025,46-55
+ORD00333,CUST0250,Male,63.0,Home & Kitchen,Water Bottle,1,453.47,Credit Card,2025-05-04,Mumbai,453.47,May,5,2025,56+
+ORD00334,CUST0007,Male,30.0,Beauty,Lipstick,2,456.65,Credit Card,2025-03-19,Chennai,913.3,March,3,2025,26-35
+ORD00335,CUST0347,Female,46.0,Electronics,Laptop Stand,2,833.33,Debit Card,2025-05-02,Chennai,1666.66,May,5,2025,46-55
+ORD00336,CUST0142,Male,60.0,Home & Kitchen,Bedsheet,2,1148.31,UPI,2025-02-16,Mysuru,2296.62,February,2,2025,56+
+ORD00337,CUST0140,Female,34.0,Electronics,Laptop Stand,2,765.18,Credit Card,2025-12-20,Delhi,1530.36,December,12,2025,26-35
+ORD00338,CUST0188,Female,49.0,Beauty,Lipstick,1,500.59,UPI,2025-05-19,Hyderabad,500.59,May,5,2025,46-55
+ORD00339,CUST0224,Female,51.0,Electronics,Headphones,1,2014.62,UPI,2025-02-09,Delhi,2014.62,February,2,2025,46-55
+ORD00340,CUST0161,Female,57.0,Books,Novel,1,387.35,Debit Card,2025-07-30,Bengaluru,387.35,July,7,2025,56+
+ORD00341,CUST0310,Male,64.0,Electronics,Laptop Stand,2,775.13,Cash on Delivery,2025-11-19,Mysuru,1550.26,November,11,2025,56+
+ORD00342,CUST0337,Female,47.0,Books,Data Analytics Book,1,787.12,Cash on Delivery,2025-05-12,Hyderabad,787.12,May,5,2025,46-55
+ORD00343,CUST0071,Female,45.0,Beauty,Shampoo,1,361.6,Cash on Delivery,2025-11-05,Mumbai,361.6,November,11,2025,36-45
+ORD00344,CUST0248,Female,59.0,Home & Kitchen,Cookware Set,1,2948.44,Credit Card,2025-08-11,Hyderabad,2948.44,August,8,2025,56+
+ORD00345,CUST0106,Female,50.0,Beauty,Shampoo,1,363.43,UPI,2025-09-27,Mysuru,363.43,September,9,2025,46-55
+ORD00346,CUST0349,Female,35.0,Beauty,Moisturizer,1,588.13,Debit Card,2025-04-19,Chennai,588.13,April,4,2025,26-35
+ORD00347,CUST0089,Female,48.0,Books,Data Analytics Book,1,723.14,Net Banking,2025-01-14,Mysuru,723.14,January,1,2025,46-55
+ORD00348,CUST0104,Male,44.0,Clothing,Sneakers,1,2578.91,Debit Card,2025-05-07,Chennai,2578.91,May,5,2025,36-45
+ORD00349,CUST0250,Female,28.0,Home & Kitchen,Water Bottle,2,447.43,Credit Card,2025-12-04,Pune,894.86,December,12,2025,26-35
+ORD00350,CUST0277,Male,42.0,Electronics,Laptop Stand,1,1004.29,Debit Card,2025-10-16,Mumbai,1004.29,October,10,2025,36-45
+ORD00351,CUST0046,Female,47.0,Home & Kitchen,Bedsheet,1,1209.96,Debit Card,2025-10-14,Mumbai,1209.96,October,10,2025,46-55
+ORD00352,CUST0195,Male,61.0,Electronics,Power Bank,1,1400.43,Cash on Delivery,2025-11-17,Bengaluru,1400.43,November,11,2025,56+
+ORD00353,CUST0121,Male,45.0,Home & Kitchen,Cookware Set,2,2562.68,Debit Card,2025-05-17,Mumbai,5125.36,May,5,2025,36-45
+ORD00354,CUST0215,Female,25.0,Home & Kitchen,Bedsheet,1,1449.02,Credit Card,2025-04-28,Bengaluru,1449.02,April,4,2025,18-25
+ORD00355,CUST0195,Female,65.0,Clothing,Jeans,2,1835.85,UPI,2025-12-04,Kolkata,3671.7,December,12,2025,56+
+ORD00356,CUST0346,Male,45.0,Home & Kitchen,Water Bottle,3,539.82,Credit Card,2025-07-28,Kolkata,1619.46,July,7,2025,36-45
+ORD00357,CUST0327,Female,31.0,Beauty,Shampoo,2,371.35,UPI,2025-04-19,Kolkata,742.7,April,4,2025,26-35
+ORD00358,CUST0229,Male,54.0,Beauty,Moisturizer,1,522.73,Cash on Delivery,2025-04-12,Kolkata,522.73,April,4,2025,46-55
+ORD00359,CUST0238,Female,36.0,Clothing,Sneakers,2,2250.36,Credit Card,2025-11-17,Hyderabad,4500.72,November,11,2025,36-45
+ORD00360,CUST0315,Female,35.0,Home & Kitchen,Water Bottle,1,423.9,Credit Card,2025-01-20,Mumbai,423.9,January,1,2025,26-35
+ORD00361,CUST0065,Male,58.0,Books,Biography,1,474.24,UPI,2025-01-23,Delhi,474.24,January,1,2025,56+
+ORD00362,CUST0255,Male,59.0,Electronics,Power Bank,1,1437.28,Debit Card,2025-09-27,Mumbai,1437.28,September,9,2025,56+
+ORD00363,CUST0271,Female,43.0,Electronics,Keyboard,1,1794.9,Credit Card,2025-01-01,Pune,1794.9,January,1,2025,36-45
+ORD00364,CUST0045,Male,35.0,Electronics,Headphones,1,1861.87,UPI,2025-03-04,Delhi,1861.87,March,3,2025,26-35
+ORD00365,CUST0309,Male,43.0,Home & Kitchen,Cookware Set,1,2684.15,Cash on Delivery,2025-12-28,Delhi,2684.15,December,12,2025,36-45
+ORD00366,CUST0245,Female,26.0,Clothing,T-Shirt,1,805.69,UPI,2025-06-05,Chennai,805.69,June,6,2025,26-35
+ORD00367,CUST0122,Female,53.0,Beauty,Moisturizer,1,647.09,Credit Card,2025-09-23,Mumbai,647.09,September,9,2025,46-55
+ORD00368,CUST0170,Female,46.0,Home & Kitchen,Mixer,1,2948.32,UPI,2025-06-27,Mumbai,2948.32,June,6,2025,46-55
+ORD00369,CUST0172,Female,58.0,Clothing,T-Shirt,3,724.49,Credit Card,2025-02-03,Mysuru,2173.4700000000003,February,2,2025,56+
+ORD00370,CUST0322,Male,38.0,Books,Novel,1,399.52,Debit Card,2025-03-09,Bengaluru,399.52,March,3,2025,36-45
+ORD00371,CUST0340,Female,57.0,Beauty,Face Wash,2,334.64,Cash on Delivery,2025-10-05,Bengaluru,669.28,October,10,2025,56+
+ORD00372,CUST0283,Female,18.0,Clothing,Dress,1,1907.47,UPI,2025-02-04,Delhi,1907.47,February,2,2025,18-25
+ORD00373,CUST0229,Male,54.0,Clothing,T-Shirt,1,836.48,Net Banking,2025-08-06,Kolkata,836.48,August,8,2025,46-55
+ORD00374,CUST0037,Male,21.0,Clothing,Jeans,1,1911.63,Debit Card,2025-05-08,Mumbai,1911.63,May,5,2025,18-25
+ORD00375,CUST0321,Male,48.0,Electronics,Power Bank,1,1400.56,UPI,2025-05-16,Chennai,1400.56,May,5,2025,46-55
+ORD00376,CUST0047,Male,27.0,Electronics,Keyboard,1,1694.19,UPI,2025-12-14,Mumbai,1694.19,December,12,2025,26-35
+ORD00377,CUST0059,Female,64.0,Books,Notebook,1,113.3,UPI,2025-08-10,Mumbai,113.3,August,8,2025,56+
+ORD00378,CUST0025,Male,54.0,Clothing,T-Shirt,1,673.61,Cash on Delivery,2025-08-13,Mysuru,673.61,August,8,2025,46-55
+ORD00379,CUST0332,Female,23.0,Clothing,Dress,1,1978.94,UPI,2025-05-08,Hyderabad,1978.94,May,5,2025,18-25
+ORD00380,CUST0173,Female,60.0,Beauty,Sunscreen,1,627.76,Credit Card,2025-05-20,Chennai,627.76,May,5,2025,56+
+ORD00381,CUST0083,Female,30.0,Home & Kitchen,Mixer,1,3286.16,Debit Card,2025-09-08,Mumbai,3286.16,September,9,2025,26-35
+ORD00382,CUST0029,Male,44.0,Books,Cookbook,1,536.42,Cash on Delivery,2025-01-15,Hyderabad,536.42,January,1,2025,36-45
+ORD00383,CUST0145,Male,22.0,Beauty,Lipstick,1,496.46,Debit Card,2025-03-28,Delhi,496.46,March,3,2025,18-25
+ORD00384,CUST0254,Female,23.0,Clothing,Jeans,1,1779.54,Debit Card,2025-08-08,Mumbai,1779.54,August,8,2025,18-25
+ORD00385,CUST0349,Male,29.0,Clothing,T-Shirt,1,676.72,UPI,2025-08-16,Chennai,676.72,August,8,2025,26-35
+ORD00386,CUST0194,Male,43.0,Books,Notebook,1,115.89,Cash on Delivery,2025-02-03,Hyderabad,115.89,February,2,2025,36-45
+ORD00387,CUST0213,Female,44.0,Beauty,Lipstick,1,447.26,UPI,2025-10-15,Bengaluru,447.26,October,10,2025,36-45
+ORD00388,CUST0293,Male,59.0,Books,Notebook,3,109.93,UPI,2025-07-18,Delhi,329.79,July,7,2025,56+
+ORD00389,CUST0316,Female,25.0,Electronics,Keyboard,1,1721.52,Net Banking,2025-03-28,Delhi,1721.52,March,3,2025,18-25
+ORD00390,CUST0098,Other,53.0,Beauty,Lipstick,1,503.1,UPI,2025-10-02,Pune,503.1,October,10,2025,46-55
+ORD00391,CUST0348,Female,18.0,Home & Kitchen,Bedsheet,1,1208.68,UPI,2025-12-28,Mumbai,1208.68,December,12,2025,18-25
+ORD00392,CUST0182,Female,31.0,Electronics,Headphones,4,2008.38,Debit Card,2025-06-04,Kolkata,8033.52,June,6,2025,26-35
+ORD00393,CUST0326,Female,26.0,Home & Kitchen,Cookware Set,1,2609.73,UPI,2025-04-14,Hyderabad,2609.73,April,4,2025,26-35
+ORD00394,CUST0042,Female,23.0,Home & Kitchen,Water Bottle,1,385.83,UPI,2025-04-20,Mysuru,385.83,April,4,2025,18-25
+ORD00395,CUST0035,Male,46.0,Electronics,Laptop Stand,4,864.65,Debit Card,2025-08-05,Delhi,3458.6,August,8,2025,46-55
+ORD00396,CUST0310,Male,61.0,Clothing,Sneakers,1,2188.68,Debit Card,2025-01-18,Kolkata,2188.68,January,1,2025,56+
+ORD00397,CUST0236,Female,50.0,Beauty,Lipstick,4,539.78,Debit Card,2025-06-26,Mumbai,2159.12,June,6,2025,46-55
+ORD00398,CUST0062,Male,58.0,Clothing,Jeans,1,1514.02,UPI,2025-01-10,Chennai,1514.02,January,1,2025,56+
+ORD00399,CUST0314,Male,46.0,Clothing,Jeans,2,1396.37,Credit Card,2025-01-15,Pune,2792.74,January,1,2025,46-55
+ORD00400,CUST0036,Male,20.0,Clothing,Sneakers,1,2086.15,Cash on Delivery,2025-06-06,Chennai,2086.15,June,6,2025,18-25
+ORD00401,CUST0239,Male,34.0,Clothing,T-Shirt,1,737.52,UPI,2025-09-30,Bengaluru,737.52,September,9,2025,26-35
+ORD00402,CUST0072,Female,57.0,Books,Cookbook,3,428.8,UPI,2025-11-19,Mumbai,1286.4,November,11,2025,56+
+ORD00403,CUST0025,Female,20.0,Beauty,Sunscreen,1,688.25,UPI,2025-02-01,Mumbai,688.25,February,2,2025,18-25
+ORD00404,CUST0283,Male,22.0,Electronics,Laptop Stand,4,813.95,Credit Card,2025-03-31,Mumbai,3255.8,March,3,2025,18-25
+ORD00405,CUST0297,Male,58.0,Books,Data Analytics Book,1,796.72,UPI,2025-06-03,Kolkata,796.72,June,6,2025,56+
+ORD00406,CUST0038,Male,21.0,Beauty,Lipstick,2,502.82,Debit Card,2025-07-29,Bengaluru,1005.64,July,7,2025,18-25
+ORD00407,CUST0033,Male,64.0,Clothing,Jeans,3,1608.0,Net Banking,2025-12-27,Hyderabad,4824.0,December,12,2025,56+
+ORD00408,CUST0216,Female,54.0,Beauty,Sunscreen,1,525.08,UPI,2025-09-07,Kolkata,525.08,September,9,2025,46-55
+ORD00409,CUST0011,Male,49.0,Electronics,Laptop Stand,3,1017.87,Debit Card,2025-07-16,Kolkata,3053.61,July,7,2025,46-55
+ORD00410,CUST0262,Female,43.0,Books,Novel,1,406.9,UPI,2025-01-23,Hyderabad,406.9,January,1,2025,36-45
+ORD00411,CUST0321,Female,22.0,Home & Kitchen,Bedsheet,2,1110.01,UPI,2025-01-30,Kolkata,2220.02,January,1,2025,18-25
+ORD00412,CUST0263,Female,37.0,Home & Kitchen,Mixer,1,2920.04,Debit Card,2025-02-25,Delhi,2920.04,February,2,2025,36-45
+ORD00413,CUST0081,Female,56.0,Electronics,Keyboard,1,1749.55,Credit Card,2025-08-30,Hyderabad,1749.55,August,8,2025,56+
+ORD00414,CUST0067,Male,61.0,Books,Biography,2,469.05,Cash on Delivery,2025-05-01,Hyderabad,938.1,May,5,2025,56+
+ORD00415,CUST0239,Female,39.0,Electronics,Smartphone,1,16245.25,Credit Card,2025-03-29,Bengaluru,16245.25,March,3,2025,36-45
+ORD00416,CUST0022,Male,58.0,Electronics,Laptop Stand,1,828.88,UPI,2025-09-02,Bengaluru,828.88,September,9,2025,56+
+ORD00417,CUST0189,Male,55.0,Electronics,Power Bank,1,1297.19,Credit Card,2025-10-25,Kolkata,1297.19,October,10,2025,46-55
+ORD00418,CUST0158,Male,20.0,Beauty,Moisturizer,2,607.03,UPI,2025-06-10,Mysuru,1214.06,June,6,2025,18-25
+ORD00419,CUST0261,Male,47.0,Electronics,Smartphone,1,19076.39,Cash on Delivery,2025-11-18,Mumbai,19076.39,November,11,2025,46-55
+ORD00420,CUST0071,Female,47.0,Books,Cookbook,2,591.8,Debit Card,2025-09-25,Hyderabad,1183.6,September,9,2025,46-55
+ORD00421,CUST0267,Female,44.0,Home & Kitchen,Water Bottle,4,460.32,UPI,2025-09-19,Hyderabad,1841.28,September,9,2025,36-45
+ORD00422,CUST0245,Female,55.0,Electronics,Power Bank,1,1146.11,Credit Card,2025-11-13,Hyderabad,1146.11,November,11,2025,46-55
+ORD00423,CUST0084,Female,60.0,Electronics,Headphones,1,1830.66,Debit Card,2025-03-09,Kolkata,1830.66,March,3,2025,56+
+ORD00424,CUST0125,Male,44.0,Electronics,Keyboard,2,1463.82,Debit Card,2025-10-04,Pune,2927.64,October,10,2025,36-45
+ORD00425,CUST0024,Female,33.0,Home & Kitchen,Water Bottle,1,417.85,UPI,2025-12-16,Kolkata,417.85,December,12,2025,26-35
+ORD00426,CUST0158,Female,65.0,Beauty,Shampoo,1,346.43,UPI,2025-12-29,Chennai,346.43,December,12,2025,56+
+ORD00427,CUST0092,Female,64.0,Electronics,Headphones,2,1751.89,UPI,2025-07-30,Kolkata,3503.78,July,7,2025,56+
+ORD00428,CUST0040,Male,50.0,Beauty,Moisturizer,1,604.45,Credit Card,2025-10-03,Hyderabad,604.45,October,10,2025,46-55
+ORD00429,CUST0196,Male,48.0,Electronics,Power Bank,1,1027.74,Credit Card,2025-11-21,Hyderabad,1027.74,November,11,2025,46-55
+ORD00430,CUST0199,Female,22.0,Beauty,Moisturizer,2,552.04,UPI,2025-11-08,Pune,1104.08,November,11,2025,18-25
+ORD00431,CUST0031,Male,37.0,Books,Novel,1,376.39,Credit Card,2025-11-24,Pune,376.39,November,11,2025,36-45
+ORD00432,CUST0065,Male,27.0,Beauty,Shampoo,1,425.46,Credit Card,2025-10-31,Bengaluru,425.46,October,10,2025,26-35
+ORD00433,CUST0029,Male,42.0,Home & Kitchen,Mixer,1,3589.85,UPI,2025-05-20,Kolkata,3589.85,May,5,2025,36-45
+ORD00434,CUST0238,Female,57.0,Beauty,Moisturizer,3,623.53,Cash on Delivery,2025-09-24,Chennai,1870.59,September,9,2025,56+
+ORD00435,CUST0119,Male,28.0,Electronics,Laptop Stand,2,989.19,Credit Card,2025-05-30,Kolkata,1978.38,May,5,2025,26-35
+ORD00436,CUST0025,Female,65.0,Electronics,Laptop Stand,1,797.38,Credit Card,2025-10-20,Chennai,797.38,October,10,2025,56+
+ORD00437,CUST0068,Female,24.0,Electronics,Power Bank,1,1219.51,Credit Card,2025-10-23,Kolkata,1219.51,October,10,2025,18-25
+ORD00438,CUST0342,Male,22.0,Home & Kitchen,Cookware Set,1,2652.98,UPI,2025-12-08,Mumbai,2652.98,December,12,2025,18-25
+ORD00439,CUST0090,Male,64.0,Beauty,Lipstick,1,467.97,Cash on Delivery,2025-08-03,Mysuru,467.97,August,8,2025,56+
+ORD00440,CUST0240,Female,22.0,Home & Kitchen,Mixer,1,2767.66,Credit Card,2025-06-23,Mysuru,2767.66,June,6,2025,18-25
+ORD00441,CUST0164,Male,53.0,Beauty,Moisturizer,4,510.54,Credit Card,2025-03-02,Mumbai,2042.16,March,3,2025,46-55
+ORD00442,CUST0064,Female,54.0,Electronics,Headphones,1,1816.58,Cash on Delivery,2025-08-21,Mysuru,1816.58,August,8,2025,46-55
+ORD00443,CUST0108,Male,43.0,Beauty,Face Wash,2,348.21,Cash on Delivery,2025-07-26,Delhi,696.42,July,7,2025,36-45
+ORD00444,CUST0005,Other,21.0,Electronics,Smartphone,1,16413.0,Cash on Delivery,2025-07-07,Mysuru,16413.0,July,7,2025,18-25
+ORD00445,CUST0262,Male,32.0,Clothing,Jacket,1,3187.93,UPI,2025-09-04,Mysuru,3187.93,September,9,2025,26-35
+ORD00446,CUST0118,Male,21.0,Beauty,Lipstick,1,587.0,UPI,2025-11-07,Hyderabad,587.0,November,11,2025,18-25
+ORD00447,CUST0175,Male,50.0,Books,Biography,1,414.21,Debit Card,2025-02-24,Pune,414.21,February,2,2025,46-55
+ORD00448,CUST0054,Male,60.0,Home & Kitchen,Cookware Set,2,2938.38,Credit Card,2025-06-07,Mysuru,5876.76,June,6,2025,56+
+ORD00449,CUST0289,Male,65.0,Electronics,Power Bank,3,1027.5,Debit Card,2025-09-21,Hyderabad,3082.5,September,9,2025,56+
+ORD00450,CUST0077,Male,56.0,Home & Kitchen,Mixer,3,3755.96,Debit Card,2025-10-27,Chennai,11267.880000000001,October,10,2025,56+
+ORD00451,CUST0199,Female,55.0,Electronics,Keyboard,1,1774.76,UPI,2025-10-12,Chennai,1774.76,October,10,2025,46-55
+ORD00452,CUST0306,Male,60.0,Books,Notebook,2,102.51,UPI,2025-10-19,Bengaluru,205.02,October,10,2025,56+
+ORD00453,CUST0250,Female,54.0,Beauty,Face Wash,1,390.97,Credit Card,2025-11-09,Chennai,390.97,November,11,2025,46-55
+ORD00454,CUST0212,Other,49.0,Electronics,Laptop Stand,3,1070.61,UPI,2025-12-18,Bengaluru,3211.83,December,12,2025,46-55
+ORD00455,CUST0311,Female,65.0,Electronics,Keyboard,1,1750.6,Debit Card,2025-08-10,Mysuru,1750.6,August,8,2025,56+
+ORD00456,CUST0062,Female,33.0,Electronics,Laptop Stand,1,1070.77,Debit Card,2025-04-01,Mumbai,1070.77,April,4,2025,26-35
+ORD00457,CUST0338,Male,37.0,Books,Notebook,1,125.11,Credit Card,2025-07-25,Pune,125.11,July,7,2025,36-45
+ORD00458,CUST0195,Female,61.0,Clothing,Dress,1,1666.97,Debit Card,2025-09-17,Mysuru,1666.97,September,9,2025,56+
+ORD00459,CUST0144,Female,32.0,Beauty,Shampoo,1,458.97,Credit Card,2025-02-06,Pune,458.97,February,2,2025,26-35
+ORD00460,CUST0090,Male,32.0,Home & Kitchen,Mixer,3,3407.49,Debit Card,2025-10-04,Kolkata,10222.47,October,10,2025,26-35
+ORD00461,CUST0261,Female,25.0,Home & Kitchen,Water Bottle,2,479.32,UPI,2025-07-18,Kolkata,958.64,July,7,2025,18-25
+ORD00462,CUST0342,Female,31.0,Electronics,Smartphone,3,17928.7,Debit Card,2025-12-08,Mumbai,53786.100000000006,December,12,2025,26-35
+ORD00463,CUST0242,Male,46.0,Books,Cookbook,1,525.07,Debit Card,2025-03-19,Bengaluru,525.07,March,3,2025,46-55
+ORD00464,CUST0012,Female,60.0,Clothing,Jacket,1,2530.51,UPI,2025-11-28,Mysuru,2530.51,November,11,2025,56+
+ORD00465,CUST0165,Female,24.0,Home & Kitchen,Bedsheet,1,1441.6,Credit Card,2025-06-13,Pune,1441.6,June,6,2025,18-25
+ORD00466,CUST0257,Female,50.0,Home & Kitchen,Mixer,1,2804.02,Cash on Delivery,2025-07-29,Mysuru,2804.02,July,7,2025,46-55
+ORD00467,CUST0140,Female,54.0,Home & Kitchen,Water Bottle,1,497.44,UPI,2025-08-29,Chennai,497.44,August,8,2025,46-55
+ORD00468,CUST0271,Female,60.0,Books,Biography,1,516.21,Debit Card,2025-07-31,Mumbai,516.21,July,7,2025,56+
+ORD00469,CUST0248,Female,54.0,Electronics,Headphones,1,1827.66,Net Banking,2025-11-26,Pune,1827.66,November,11,2025,46-55
+ORD00470,CUST0024,Male,25.0,Home & Kitchen,Water Bottle,1,462.8,Cash on Delivery,2025-03-03,Hyderabad,462.8,March,3,2025,18-25
+ORD00471,CUST0196,Male,41.0,Clothing,Dress,1,1822.62,Credit Card,2025-09-24,Hyderabad,1822.62,September,9,2025,36-45
+ORD00472,CUST0061,Female,63.0,Clothing,T-Shirt,2,832.52,Debit Card,2025-12-22,Pune,1665.04,December,12,2025,56+
+ORD00473,CUST0171,Female,61.0,Electronics,Laptop Stand,1,995.93,Net Banking,2025-03-22,Kolkata,995.93,March,3,2025,56+
+ORD00474,CUST0135,Male,47.0,Electronics,Smartphone,3,17624.63,Credit Card,2025-04-04,Mumbai,52873.89,April,4,2025,46-55
+ORD00475,CUST0283,Male,64.0,Clothing,T-Shirt,1,637.83,UPI,2025-06-23,Hyderabad,637.83,June,6,2025,56+
+ORD00476,CUST0304,Female,50.0,Clothing,Jacket,2,2595.19,UPI,2025-09-22,Chennai,5190.38,September,9,2025,46-55
+ORD00477,CUST0162,Female,21.0,Clothing,Jacket,2,2834.64,UPI,2025-12-17,Pune,5669.28,December,12,2025,18-25
+ORD00478,CUST0188,Female,61.0,Home & Kitchen,Mixer,2,3775.68,Credit Card,2025-10-18,Delhi,7551.36,October,10,2025,56+
+ORD00479,CUST0220,Male,26.0,Home & Kitchen,Mixer,2,3542.24,UPI,2025-10-17,Mumbai,7084.48,October,10,2025,26-35
+ORD00480,CUST0230,Male,36.0,Clothing,T-Shirt,3,647.73,UPI,2025-06-11,Pune,1943.19,June,6,2025,36-45
+ORD00481,CUST0223,Male,29.0,Clothing,Sneakers,1,2762.03,Debit Card,2025-08-24,Kolkata,2762.03,August,8,2025,26-35
+ORD00482,CUST0275,Female,52.0,Electronics,Keyboard,1,1473.56,Credit Card,2025-03-19,Hyderabad,1473.56,March,3,2025,46-55
+ORD00483,CUST0344,Female,19.0,Home & Kitchen,Mixer,1,3673.93,Cash on Delivery,2025-06-19,Bengaluru,3673.93,June,6,2025,18-25
+ORD00484,CUST0290,Female,48.0,Clothing,Jeans,1,1495.35,Debit Card,2025-03-10,Mumbai,1495.35,March,3,2025,46-55
+ORD00485,CUST0048,Female,59.0,Electronics,Smartphone,1,19197.56,Net Banking,2025-01-10,Delhi,19197.56,January,1,2025,56+
+ORD00486,CUST0167,Female,55.0,Clothing,Jeans,1,1878.94,Cash on Delivery,2025-11-09,Chennai,1878.94,November,11,2025,46-55
+ORD00487,CUST0162,Male,32.0,Clothing,Jeans,1,1504.42,UPI,2025-10-21,Chennai,1504.42,October,10,2025,26-35
+ORD00488,CUST0179,Female,61.0,Electronics,Headphones,1,1966.54,Debit Card,2025-07-06,Pune,1966.54,July,7,2025,56+
+ORD00489,CUST0185,Male,35.0,Home & Kitchen,Bedsheet,1,1554.23,UPI,2025-01-06,Bengaluru,1554.23,January,1,2025,26-35
+ORD00490,CUST0252,Female,50.0,Home & Kitchen,Water Bottle,1,406.22,Net Banking,2025-02-02,Delhi,406.22,February,2,2025,46-55
+ORD00491,CUST0148,Female,42.0,Beauty,Moisturizer,2,484.52,UPI,2025-02-10,Chennai,969.04,February,2,2025,36-45
+ORD00492,CUST0093,Male,21.0,Home & Kitchen,Water Bottle,2,488.69,Debit Card,2025-09-19,Kolkata,977.38,September,9,2025,18-25
+ORD00493,CUST0161,Male,18.0,Home & Kitchen,Lamp,1,823.57,Cash on Delivery,2025-03-16,Mysuru,823.57,March,3,2025,18-25
+ORD00494,CUST0300,Female,26.0,Clothing,Sneakers,1,2099.85,UPI,2025-04-02,Kolkata,2099.85,April,4,2025,26-35
+ORD00495,CUST0110,Male,62.0,Beauty,Shampoo,1,406.54,Cash on Delivery,2025-11-11,Bengaluru,406.54,November,11,2025,56+
+ORD00496,CUST0008,Female,63.0,Home & Kitchen,Water Bottle,1,501.22,UPI,2025-11-16,Mysuru,501.22,November,11,2025,56+
+ORD00497,CUST0342,Female,43.0,Clothing,Dress,2,1804.61,Credit Card,2025-10-06,Pune,3609.22,October,10,2025,36-45
+ORD00498,CUST0069,Female,64.0,Home & Kitchen,Lamp,1,822.18,Credit Card,2025-04-23,Pune,822.18,April,4,2025,56+
+ORD00499,CUST0211,Female,20.0,Clothing,T-Shirt,4,802.2,UPI,2025-07-31,Kolkata,3208.8,July,7,2025,18-25
+ORD00500,CUST0281,Male,64.0,Home & Kitchen,Lamp,1,877.22,Credit Card,2025-03-15,Hyderabad,877.22,March,3,2025,56+
+ORD00501,CUST0097,Female,29.0,Beauty,Sunscreen,2,686.97,Cash on Delivery,2025-11-10,Hyderabad,1373.94,November,11,2025,26-35
+ORD00502,CUST0120,Male,19.0,Books,Novel,1,352.18,UPI,2025-01-31,Hyderabad,352.18,January,1,2025,18-25
+ORD00503,CUST0099,Male,54.0,Books,Biography,1,532.59,Credit Card,2025-09-29,Hyderabad,532.59,September,9,2025,46-55
+ORD00504,CUST0053,Female,36.0,Home & Kitchen,Mixer,2,3448.89,Cash on Delivery,2025-07-06,Hyderabad,6897.78,July,7,2025,36-45
+ORD00505,CUST0054,Female,32.0,Home & Kitchen,Mixer,1,2849.81,Debit Card,2025-10-04,Mumbai,2849.81,October,10,2025,26-35
+ORD00506,CUST0066,Female,54.0,Beauty,Face Wash,2,405.92,UPI,2025-06-14,Pune,811.84,June,6,2025,46-55
+ORD00507,CUST0161,Male,33.0,Clothing,Jacket,1,2859.48,Cash on Delivery,2025-02-27,Mumbai,2859.48,February,2,2025,26-35
+ORD00508,CUST0186,Male,54.0,Beauty,Sunscreen,1,539.74,UPI,2025-10-02,Hyderabad,539.74,October,10,2025,46-55
+ORD00509,CUST0006,Male,27.0,Clothing,Jacket,1,2529.64,Credit Card,2025-08-19,Chennai,2529.64,August,8,2025,26-35
+ORD00510,CUST0297,Female,22.0,Electronics,Headphones,2,1963.15,Credit Card,2025-06-19,Hyderabad,3926.3,June,6,2025,18-25
+ORD00511,CUST0237,Female,33.0,Electronics,Headphones,1,1559.84,Debit Card,2025-05-17,Hyderabad,1559.84,May,5,2025,26-35
+ORD00512,CUST0025,Male,47.0,Beauty,Lipstick,3,475.15,UPI,2025-05-06,Bengaluru,1425.4499999999998,May,5,2025,46-55
+ORD00513,CUST0295,Female,28.0,Electronics,Keyboard,2,1348.39,UPI,2025-06-25,Mumbai,2696.78,June,6,2025,26-35
+ORD00514,CUST0011,Male,24.0,Clothing,Sneakers,2,2410.51,Debit Card,2025-04-06,Delhi,4821.02,April,4,2025,18-25
+ORD00515,CUST0197,Female,53.0,Clothing,T-Shirt,1,696.52,UPI,2025-04-14,Delhi,696.52,April,4,2025,46-55
+ORD00516,CUST0163,Female,41.0,Electronics,Keyboard,2,1548.99,Credit Card,2025-04-12,Kolkata,3097.98,April,4,2025,36-45
+ORD00517,CUST0176,Male,38.0,Clothing,Sneakers,3,2274.89,Debit Card,2025-01-05,Kolkata,6824.67,January,1,2025,36-45
+ORD00518,CUST0335,Male,29.0,Beauty,Shampoo,1,344.49,Debit Card,2025-12-05,Chennai,344.49,December,12,2025,26-35
+ORD00519,CUST0325,Male,18.0,Electronics,Headphones,1,1917.06,UPI,2025-03-28,Mumbai,1917.06,March,3,2025,18-25
+ORD00520,CUST0098,Female,20.0,Beauty,Lipstick,1,490.4,UPI,2025-03-02,Bengaluru,490.4,March,3,2025,18-25
+ORD00521,CUST0203,Male,50.0,Beauty,Shampoo,1,431.19,Net Banking,2025-02-25,Pune,431.19,February,2,2025,46-55
+ORD00522,CUST0336,Male,21.0,Clothing,T-Shirt,2,621.62,Credit Card,2025-12-27,Kolkata,1243.24,December,12,2025,18-25
+ORD00523,CUST0256,Male,29.0,Electronics,Smartphone,1,15386.8,UPI,2025-06-24,Delhi,15386.8,June,6,2025,26-35
+ORD00524,CUST0311,Male,61.0,Home & Kitchen,Bedsheet,1,1217.97,UPI,2025-04-30,Pune,1217.97,April,4,2025,56+
+ORD00525,CUST0153,Male,34.0,Electronics,Headphones,1,1817.62,UPI,2025-05-28,Kolkata,1817.62,May,5,2025,26-35
+ORD00526,CUST0100,Male,53.0,Clothing,Jeans,1,1580.68,Net Banking,2025-02-02,Hyderabad,1580.68,February,2,2025,46-55
+ORD00527,CUST0179,Female,34.0,Books,Cookbook,1,566.8,UPI,2025-04-25,Mysuru,566.8,April,4,2025,26-35
+ORD00528,CUST0286,Female,62.0,Books,Notebook,2,117.87,UPI,2025-04-01,Bengaluru,235.74,April,4,2025,56+
+ORD00529,CUST0326,Male,57.0,Beauty,Face Wash,1,362.48,Credit Card,2025-10-21,Pune,362.48,October,10,2025,56+
+ORD00530,CUST0241,Female,40.0,Clothing,Jacket,1,2961.65,UPI,2025-01-22,Hyderabad,2961.65,January,1,2025,36-45
+ORD00531,CUST0248,Female,50.0,Home & Kitchen,Lamp,2,728.99,UPI,2025-06-05,Mysuru,1457.98,June,6,2025,46-55
+ORD00532,CUST0180,Male,43.0,Beauty,Lipstick,1,515.15,Net Banking,2025-10-16,Bengaluru,515.15,October,10,2025,36-45
+ORD00533,CUST0112,Female,63.0,Clothing,Dress,1,1844.31,Debit Card,2025-11-01,Kolkata,1844.31,November,11,2025,56+
+ORD00534,CUST0149,Male,35.0,Home & Kitchen,Mixer,1,3191.83,UPI,2025-07-07,Mumbai,3191.83,July,7,2025,26-35
+ORD00535,CUST0175,Male,58.0,Electronics,Keyboard,4,1327.65,Credit Card,2025-03-23,Mumbai,5310.6,March,3,2025,56+
+ORD00536,CUST0286,Female,47.0,Electronics,Keyboard,2,1685.98,UPI,2025-05-04,Chennai,3371.96,May,5,2025,46-55
+ORD00537,CUST0195,Male,48.0,Home & Kitchen,Water Bottle,1,530.93,UPI,2025-03-23,Mumbai,530.93,March,3,2025,46-55
+ORD00538,CUST0278,Female,34.0,Electronics,Laptop Stand,1,772.01,Credit Card,2025-08-30,Kolkata,772.01,August,8,2025,26-35
+ORD00539,CUST0010,Male,57.0,Electronics,Laptop Stand,1,954.43,Credit Card,2025-04-17,Mumbai,954.43,April,4,2025,56+
+ORD00540,CUST0265,Male,53.0,Beauty,Shampoo,2,446.94,Debit Card,2025-08-19,Mumbai,893.88,August,8,2025,46-55
+ORD00541,CUST0178,Female,57.0,Books,Data Analytics Book,1,712.26,Cash on Delivery,2025-08-28,Mumbai,712.26,August,8,2025,56+
+ORD00542,CUST0350,Female,56.0,Home & Kitchen,Lamp,3,956.8,UPI,2025-12-10,Pune,2870.3999999999996,December,12,2025,56+
+ORD00543,CUST0166,Female,25.0,Beauty,Lipstick,2,535.66,Cash on Delivery,2025-05-16,Hyderabad,1071.32,May,5,2025,18-25
+ORD00544,CUST0168,Female,60.0,Books,Data Analytics Book,1,881.41,Credit Card,2025-12-17,Kolkata,881.41,December,12,2025,56+
+ORD00545,CUST0045,Female,58.0,Electronics,Keyboard,2,1790.03,UPI,2025-05-27,Mumbai,3580.06,May,5,2025,56+
+ORD00546,CUST0283,Other,29.0,Clothing,Jeans,4,1383.71,Cash on Delivery,2025-09-06,Bengaluru,5534.84,September,9,2025,26-35
+ORD00547,CUST0246,Female,65.0,Clothing,Sneakers,1,2413.75,UPI,2025-08-30,Kolkata,2413.75,August,8,2025,56+
+ORD00548,CUST0302,Male,43.0,Electronics,Laptop Stand,2,937.3,Credit Card,2025-10-26,Mysuru,1874.6,October,10,2025,36-45
+ORD00549,CUST0033,Female,33.0,Beauty,Shampoo,3,360.54,Debit Card,2025-06-21,Pune,1081.6200000000001,June,6,2025,26-35
+ORD00550,CUST0075,Other,28.0,Clothing,T-Shirt,1,677.39,UPI,2025-10-17,Chennai,677.39,October,10,2025,26-35
+ORD00551,CUST0307,Female,35.0,Clothing,Sneakers,3,2869.62,Cash on Delivery,2025-05-10,Mysuru,8608.86,May,5,2025,26-35
+ORD00552,CUST0015,Female,19.0,Electronics,Smartphone,1,15402.25,UPI,2025-06-29,Pune,15402.25,June,6,2025,18-25
+ORD00553,CUST0178,Male,51.0,Electronics,Smartphone,2,18150.8,Cash on Delivery,2025-07-02,Bengaluru,36301.6,July,7,2025,46-55
+ORD00554,CUST0142,Female,51.0,Books,Novel,2,400.73,UPI,2025-09-15,Delhi,801.46,September,9,2025,46-55
+ORD00555,CUST0329,Male,50.0,Electronics,Keyboard,1,1445.05,UPI,2025-08-14,Mumbai,1445.05,August,8,2025,46-55
+ORD00556,CUST0300,Female,44.0,Electronics,Headphones,1,1832.27,Credit Card,2025-01-29,Chennai,1832.27,January,1,2025,36-45
+ORD00557,CUST0314,Male,35.0,Clothing,Sneakers,1,2861.56,Cash on Delivery,2025-10-23,Hyderabad,2861.56,October,10,2025,26-35
+ORD00558,CUST0102,Male,52.0,Clothing,Dress,1,1930.79,UPI,2025-10-04,Hyderabad,1930.79,October,10,2025,46-55
+ORD00559,CUST0206,Male,59.0,Home & Kitchen,Mixer,1,2866.63,Cash on Delivery,2025-02-08,Delhi,2866.63,February,2,2025,56+
+ORD00560,CUST0246,Female,22.0,Clothing,Jacket,1,2430.69,UPI,2025-12-18,Chennai,2430.69,December,12,2025,18-25
+ORD00561,CUST0339,Female,36.0,Electronics,Laptop Stand,1,1062.81,Credit Card,2025-08-30,Mysuru,1062.81,August,8,2025,36-45
+ORD00562,CUST0003,Female,65.0,Electronics,Smartphone,1,16974.6,UPI,2025-02-01,Chennai,16974.6,February,2,2025,56+
+ORD00563,CUST0342,Female,59.0,Beauty,Sunscreen,1,615.85,UPI,2025-06-29,Bengaluru,615.85,June,6,2025,56+
+ORD00564,CUST0125,Female,65.0,Home & Kitchen,Bedsheet,3,1146.27,Cash on Delivery,2025-11-02,Bengaluru,3438.81,November,11,2025,56+
+ORD00565,CUST0045,Male,43.0,Home & Kitchen,Bedsheet,1,1297.76,Credit Card,2025-04-13,Chennai,1297.76,April,4,2025,36-45
+ORD00566,CUST0216,Male,40.0,Home & Kitchen,Bedsheet,1,1528.2,Debit Card,2025-12-07,Mysuru,1528.2,December,12,2025,36-45
+ORD00567,CUST0274,Male,24.0,Beauty,Lipstick,1,512.92,Credit Card,2025-06-02,Pune,512.92,June,6,2025,18-25
+ORD00568,CUST0046,Female,59.0,Electronics,Power Bank,1,1427.88,Credit Card,2025-03-24,Mysuru,1427.88,March,3,2025,56+
+ORD00569,CUST0015,Female,43.0,Clothing,Jeans,2,1504.95,Debit Card,2025-05-11,Mysuru,3009.9,May,5,2025,36-45
+ORD00570,CUST0314,Male,29.0,Home & Kitchen,Lamp,1,872.6,Cash on Delivery,2025-07-11,Kolkata,872.6,July,7,2025,26-35
+ORD00571,CUST0327,Female,22.0,Clothing,Dress,1,2186.59,Debit Card,2025-09-09,Mysuru,2186.59,September,9,2025,18-25
+ORD00572,CUST0055,Female,53.0,Beauty,Lipstick,3,503.44,Credit Card,2025-12-05,Kolkata,1510.32,December,12,2025,46-55
+ORD00573,CUST0317,Female,56.0,Clothing,Sneakers,2,2274.77,Debit Card,2025-03-13,Mumbai,4549.54,March,3,2025,56+
+ORD00574,CUST0319,Male,60.0,Beauty,Moisturizer,2,632.18,Debit Card,2025-12-17,Pune,1264.36,December,12,2025,56+
+ORD00575,CUST0350,Other,64.0,Beauty,Sunscreen,2,591.88,Credit Card,2025-07-12,Kolkata,1183.76,July,7,2025,56+
+ORD00576,CUST0076,Female,57.0,Home & Kitchen,Water Bottle,3,466.09,Debit Card,2025-02-16,Bengaluru,1398.27,February,2,2025,56+
+ORD00577,CUST0203,Male,55.0,Books,Data Analytics Book,1,893.84,Credit Card,2025-12-05,Mumbai,893.84,December,12,2025,46-55
+ORD00578,CUST0348,Female,56.0,Home & Kitchen,Bedsheet,1,1189.85,Debit Card,2025-05-08,Hyderabad,1189.85,May,5,2025,56+
+ORD00579,CUST0316,Female,65.0,Beauty,Lipstick,1,477.75,Net Banking,2025-08-15,Pune,477.75,August,8,2025,56+
+ORD00580,CUST0212,Male,40.0,Clothing,Jacket,1,2410.45,Net Banking,2025-09-12,Mysuru,2410.45,September,9,2025,36-45
+ORD00581,CUST0069,Female,54.0,Clothing,Jeans,1,1579.43,Cash on Delivery,2025-01-05,Mysuru,1579.43,January,1,2025,46-55
+ORD00582,CUST0030,Male,57.0,Home & Kitchen,Bedsheet,1,1196.08,Debit Card,2025-03-22,Mumbai,1196.08,March,3,2025,56+
+ORD00583,CUST0091,Female,23.0,Electronics,Smartphone,2,19584.22,Debit Card,2025-09-08,Mysuru,39168.44,September,9,2025,18-25
+ORD00584,CUST0023,Female,51.0,Clothing,Sneakers,2,2192.31,UPI,2025-04-29,Mumbai,4384.62,April,4,2025,46-55
+ORD00585,CUST0069,Male,34.0,Books,Data Analytics Book,2,814.64,Credit Card,2025-01-04,Mysuru,1629.28,January,1,2025,26-35
+ORD00586,CUST0027,Female,24.0,Home & Kitchen,Bedsheet,1,1224.88,UPI,2025-01-09,Pune,1224.88,January,1,2025,18-25
+ORD00587,CUST0267,Male,26.0,Electronics,Smartphone,1,17537.87,UPI,2025-10-29,Pune,17537.87,October,10,2025,26-35
+ORD00588,CUST0207,Female,23.0,Clothing,Jeans,1,1555.36,Net Banking,2025-02-26,Mysuru,1555.36,February,2,2025,18-25
+ORD00589,CUST0182,Male,61.0,Electronics,Keyboard,1,1651.29,Cash on Delivery,2025-02-06,Hyderabad,1651.29,February,2,2025,56+
+ORD00590,CUST0284,Female,55.0,Electronics,Smartphone,3,18239.01,Credit Card,2025-07-25,Chennai,54717.03,July,7,2025,46-55
+ORD00591,CUST0144,Female,22.0,Books,Novel,3,341.76,UPI,2025-02-13,Chennai,1025.28,February,2,2025,18-25
+ORD00592,CUST0142,Male,48.0,Clothing,Jeans,3,1837.47,Debit Card,2025-08-27,Kolkata,5512.41,August,8,2025,46-55
+ORD00593,CUST0073,Female,49.0,Clothing,Jacket,2,2940.51,Credit Card,2025-07-18,Chennai,5881.02,July,7,2025,46-55
+ORD00594,CUST0156,Female,42.0,Home & Kitchen,Mixer,3,2959.49,Cash on Delivery,2025-08-25,Chennai,8878.47,August,8,2025,36-45
+ORD00595,CUST0062,Other,47.0,Electronics,Smartphone,1,20970.58,Net Banking,2025-06-29,Bengaluru,20970.58,June,6,2025,46-55
+ORD00596,CUST0207,Male,61.0,Clothing,T-Shirt,1,678.95,UPI,2025-10-12,Bengaluru,678.95,October,10,2025,56+
+ORD00597,CUST0350,Male,42.0,Beauty,Shampoo,1,345.46,UPI,2025-08-24,Hyderabad,345.46,August,8,2025,36-45
+ORD00598,CUST0187,Male,49.0,Home & Kitchen,Cookware Set,1,2557.78,UPI,2025-06-01,Kolkata,2557.78,June,6,2025,46-55
+ORD00599,CUST0105,Male,45.0,Books,Notebook,1,107.21,UPI,2025-01-06,Delhi,107.21,January,1,2025,36-45
+ORD00600,CUST0241,Male,37.0,Home & Kitchen,Water Bottle,1,420.06,Credit Card,2025-04-10,Chennai,420.06,April,4,2025,36-45
+ORD00601,CUST0288,Male,60.0,Clothing,Dress,3,2111.83,UPI,2025-02-17,Mysuru,6335.49,February,2,2025,56+
+ORD00602,CUST0166,Female,37.0,Beauty,Moisturizer,1,492.67,UPI,2025-01-06,Delhi,492.67,January,1,2025,36-45
+ORD00603,CUST0088,Female,56.0,Books,Biography,3,509.59,UPI,2025-04-10,Pune,1528.77,April,4,2025,56+
+ORD00604,CUST0250,Male,47.0,Beauty,Shampoo,2,471.17,UPI,2025-03-17,Chennai,942.34,March,3,2025,46-55
+ORD00605,CUST0066,Male,50.0,Books,Biography,2,478.03,Debit Card,2025-01-29,Bengaluru,956.06,January,1,2025,46-55
+ORD00606,CUST0350,Female,54.0,Beauty,Sunscreen,2,659.18,UPI,2025-04-25,Kolkata,1318.36,April,4,2025,46-55
+ORD00607,CUST0112,Female,53.0,Beauty,Shampoo,1,439.9,Cash on Delivery,2025-07-04,Kolkata,439.9,July,7,2025,46-55
+ORD00608,CUST0123,Female,45.0,Electronics,Smartphone,2,21554.69,UPI,2025-03-07,Delhi,43109.38,March,3,2025,36-45
+ORD00609,CUST0255,Male,47.0,Beauty,Shampoo,1,387.82,UPI,2025-04-10,Mumbai,387.82,April,4,2025,46-55
+ORD00610,CUST0005,Male,42.0,Clothing,Dress,3,1723.3,UPI,2025-01-08,Hyderabad,5169.9,January,1,2025,36-45
+ORD00611,CUST0072,Female,34.0,Home & Kitchen,Lamp,1,876.95,Debit Card,2025-01-19,Pune,876.95,January,1,2025,26-35
+ORD00612,CUST0044,Male,52.0,Home & Kitchen,Lamp,1,881.14,UPI,2025-02-27,Delhi,881.14,February,2,2025,46-55
+ORD00613,CUST0137,Male,60.0,Books,Novel,2,319.29,Credit Card,2025-06-15,Bengaluru,638.58,June,6,2025,56+
+ORD00614,CUST0194,Male,51.0,Books,Cookbook,2,532.29,UPI,2025-09-01,Bengaluru,1064.58,September,9,2025,46-55
+ORD00615,CUST0063,Female,55.0,Clothing,T-Shirt,1,598.46,Net Banking,2025-10-15,Pune,598.46,October,10,2025,46-55
+ORD00616,CUST0121,Male,57.0,Beauty,Sunscreen,2,704.81,UPI,2025-08-18,Pune,1409.62,August,8,2025,56+
+ORD00617,CUST0271,Male,35.0,Beauty,Lipstick,1,471.3,Credit Card,2025-08-14,Mumbai,471.3,August,8,2025,26-35
+ORD00618,CUST0329,Male,21.0,Clothing,T-Shirt,2,604.69,Cash on Delivery,2025-12-08,Mysuru,1209.38,December,12,2025,18-25
+ORD00619,CUST0005,Female,34.0,Electronics,Power Bank,1,1065.46,UPI,2025-04-04,Mysuru,1065.46,April,4,2025,26-35
+ORD00620,CUST0220,Male,54.0,Electronics,Keyboard,1,1401.13,UPI,2025-10-19,Delhi,1401.13,October,10,2025,46-55
+ORD00621,CUST0009,Male,57.0,Beauty,Lipstick,1,472.93,Cash on Delivery,2025-12-08,Mysuru,472.93,December,12,2025,56+
+ORD00622,CUST0183,Female,42.0,Clothing,Jeans,1,1378.37,UPI,2025-07-27,Delhi,1378.37,July,7,2025,36-45
+ORD00623,CUST0308,Female,55.0,Books,Novel,1,331.72,UPI,2025-11-03,Hyderabad,331.72,November,11,2025,46-55
+ORD00624,CUST0280,Male,21.0,Clothing,Dress,1,1743.31,Credit Card,2025-02-20,Mumbai,1743.31,February,2,2025,18-25
+ORD00625,CUST0082,Male,48.0,Books,Notebook,1,117.9,UPI,2025-11-17,Bengaluru,117.9,November,11,2025,46-55
+ORD00626,CUST0091,Female,50.0,Clothing,Jacket,1,2757.46,Cash on Delivery,2025-07-25,Delhi,2757.46,July,7,2025,46-55
+ORD00627,CUST0275,Female,42.0,Beauty,Lipstick,1,484.33,Debit Card,2025-03-22,Chennai,484.33,March,3,2025,36-45
+ORD00628,CUST0287,Female,52.0,Electronics,Headphones,1,1736.59,Credit Card,2025-01-23,Hyderabad,1736.59,January,1,2025,46-55
+ORD00629,CUST0099,Male,41.0,Home & Kitchen,Cookware Set,2,2203.51,UPI,2025-09-20,Mumbai,4407.02,September,9,2025,36-45
+ORD00630,CUST0002,Other,43.0,Beauty,Face Wash,3,300.59,Debit Card,2025-06-07,Mumbai,901.77,June,6,2025,36-45
+ORD00631,CUST0156,Female,46.0,Books,Notebook,1,110.49,Debit Card,2025-04-24,Hyderabad,110.49,April,4,2025,46-55
+ORD00632,CUST0217,Female,56.0,Beauty,Sunscreen,3,668.9,UPI,2025-05-23,Mysuru,2006.6999999999998,May,5,2025,56+
+ORD00633,CUST0156,Female,29.0,Electronics,Keyboard,1,1795.18,Cash on Delivery,2025-12-28,Pune,1795.18,December,12,2025,26-35
+ORD00634,CUST0328,Female,32.0,Clothing,Jacket,1,3289.96,Credit Card,2025-06-06,Pune,3289.96,June,6,2025,26-35
+ORD00635,CUST0285,Male,43.0,Electronics,Headphones,2,1847.66,Debit Card,2025-01-29,Bengaluru,3695.32,January,1,2025,36-45
+ORD00636,CUST0276,Male,27.0,Electronics,Headphones,2,1865.05,UPI,2025-04-13,Kolkata,3730.1,April,4,2025,26-35
+ORD00637,CUST0008,Female,34.0,Home & Kitchen,Water Bottle,2,432.05,UPI,2025-02-23,Bengaluru,864.1,February,2,2025,26-35
+ORD00638,CUST0299,Female,34.0,Beauty,Sunscreen,1,672.53,Debit Card,2025-09-08,Delhi,672.53,September,9,2025,26-35
+ORD00639,CUST0265,Female,33.0,Beauty,Face Wash,2,391.18,Debit Card,2025-10-20,Chennai,782.36,October,10,2025,26-35
+ORD00640,CUST0139,Male,37.0,Beauty,Lipstick,1,572.75,Credit Card,2025-11-03,Mumbai,572.75,November,11,2025,36-45
+ORD00641,CUST0207,Male,42.0,Beauty,Moisturizer,1,639.88,UPI,2025-08-20,Mysuru,639.88,August,8,2025,36-45
+ORD00642,CUST0289,Male,51.0,Beauty,Shampoo,1,400.81,Cash on Delivery,2025-10-08,Bengaluru,400.81,October,10,2025,46-55
+ORD00643,CUST0318,Female,32.0,Electronics,Smartphone,4,20131.32,UPI,2025-06-02,Chennai,80525.28,June,6,2025,26-35
+ORD00644,CUST0193,Male,58.0,Electronics,Laptop Stand,1,1019.02,UPI,2025-08-18,Bengaluru,1019.02,August,8,2025,56+
+ORD00645,CUST0015,Female,41.0,Home & Kitchen,Bedsheet,2,1245.35,Debit Card,2025-02-09,Delhi,2490.7,February,2,2025,36-45
+ORD00646,CUST0217,Male,52.0,Beauty,Face Wash,2,411.33,UPI,2025-07-16,Delhi,822.66,July,7,2025,46-55
+ORD00647,CUST0239,Male,23.0,Electronics,Laptop Stand,2,794.72,UPI,2025-07-23,Kolkata,1589.44,July,7,2025,18-25
+ORD00648,CUST0021,Male,26.0,Home & Kitchen,Cookware Set,2,2994.99,UPI,2025-01-12,Kolkata,5989.98,January,1,2025,26-35
+ORD00649,CUST0287,Male,39.0,Home & Kitchen,Lamp,2,951.6,Cash on Delivery,2025-07-20,Pune,1903.2,July,7,2025,36-45
+ORD00650,CUST0071,Female,35.0,Electronics,Smartphone,1,15887.61,UPI,2025-09-21,Chennai,15887.61,September,9,2025,26-35
+ORD00651,CUST0312,Male,41.0,Clothing,Dress,1,2051.39,Debit Card,2025-05-15,Hyderabad,2051.39,May,5,2025,36-45
+ORD00652,CUST0193,Female,25.0,Books,Notebook,1,103.44,Net Banking,2025-07-18,Mumbai,103.44,July,7,2025,18-25
+ORD00653,CUST0113,Female,40.0,Home & Kitchen,Lamp,1,951.63,Debit Card,2025-04-15,Mysuru,951.63,April,4,2025,36-45
+ORD00654,CUST0021,Female,50.0,Electronics,Smartphone,1,20335.1,Credit Card,2025-04-09,Kolkata,20335.1,April,4,2025,46-55
+ORD00655,CUST0007,Female,52.0,Beauty,Lipstick,1,530.42,Credit Card,2025-02-17,Delhi,530.42,February,2,2025,46-55
+ORD00656,CUST0260,Female,29.0,Clothing,Jacket,1,3219.72,UPI,2025-04-30,Delhi,3219.72,April,4,2025,26-35
+ORD00657,CUST0133,Female,34.0,Beauty,Face Wash,1,309.49,Credit Card,2025-10-21,Mysuru,309.49,October,10,2025,26-35
+ORD00658,CUST0295,Male,43.0,Clothing,Jeans,1,1514.52,Net Banking,2025-12-08,Mumbai,1514.52,December,12,2025,36-45
+ORD00659,CUST0081,Female,42.0,Home & Kitchen,Cookware Set,3,2487.41,Debit Card,2025-08-21,Chennai,7462.23,August,8,2025,36-45
+ORD00660,CUST0323,Female,56.0,Clothing,T-Shirt,1,605.4,Credit Card,2025-08-16,Delhi,605.4,August,8,2025,56+
+ORD00661,CUST0330,Other,36.0,Clothing,Jacket,4,2819.25,UPI,2025-08-13,Hyderabad,11277.0,August,8,2025,36-45
+ORD00662,CUST0036,Male,50.0,Books,Biography,3,424.27,Cash on Delivery,2025-06-23,Mysuru,1272.81,June,6,2025,46-55
+ORD00663,CUST0227,Female,60.0,Electronics,Headphones,1,1777.42,UPI,2025-06-04,Bengaluru,1777.42,June,6,2025,56+
+ORD00664,CUST0329,Female,32.0,Electronics,Laptop Stand,2,898.91,Cash on Delivery,2025-08-15,Kolkata,1797.82,August,8,2025,26-35
+ORD00665,CUST0114,Male,57.0,Clothing,Jeans,1,1852.47,UPI,2025-10-14,Delhi,1852.47,October,10,2025,56+
+ORD00666,CUST0024,Male,33.0,Beauty,Shampoo,2,377.85,Debit Card,2025-06-01,Mumbai,755.7,June,6,2025,26-35
+ORD00667,CUST0307,Female,34.0,Beauty,Moisturizer,1,639.55,Cash on Delivery,2025-07-26,Mumbai,639.55,July,7,2025,26-35
+ORD00668,CUST0166,Male,49.0,Books,Notebook,1,119.89,Credit Card,2025-06-21,Chennai,119.89,June,6,2025,46-55
+ORD00669,CUST0010,Female,47.0,Clothing,T-Shirt,1,675.31,UPI,2025-04-15,Hyderabad,675.31,April,4,2025,46-55
+ORD00670,CUST0295,Female,44.0,Clothing,Dress,1,1949.17,Cash on Delivery,2025-04-16,Delhi,1949.17,April,4,2025,36-45
+ORD00671,CUST0238,Male,29.0,Electronics,Power Bank,4,1195.45,UPI,2025-01-29,Kolkata,4781.8,January,1,2025,26-35
+ORD00672,CUST0025,Male,22.0,Home & Kitchen,Lamp,2,799.07,UPI,2025-06-10,Kolkata,1598.14,June,6,2025,18-25
+ORD00673,CUST0091,Male,61.0,Books,Notebook,2,123.11,Credit Card,2025-09-18,Mysuru,246.22,September,9,2025,56+
+ORD00674,CUST0007,Female,59.0,Beauty,Face Wash,4,316.1,Credit Card,2025-09-08,Chennai,1264.4,September,9,2025,56+
+ORD00675,CUST0335,Female,60.0,Home & Kitchen,Lamp,2,827.2,Debit Card,2025-12-26,Kolkata,1654.4,December,12,2025,56+
+ORD00676,CUST0009,Female,42.0,Clothing,Jacket,1,2934.47,UPI,2025-01-15,Delhi,2934.47,January,1,2025,36-45
+ORD00677,CUST0279,Female,60.0,Books,Notebook,2,119.36,Credit Card,2025-10-05,Bengaluru,238.72,October,10,2025,56+
+ORD00678,CUST0179,Female,40.0,Clothing,Dress,1,2162.9,Cash on Delivery,2025-10-18,Mysuru,2162.9,October,10,2025,36-45
+ORD00679,CUST0204,Male,21.0,Electronics,Laptop Stand,1,845.87,UPI,2025-06-09,Chennai,845.87,June,6,2025,18-25
+ORD00680,CUST0285,Male,27.0,Clothing,Jeans,1,1903.07,Credit Card,2025-04-14,Kolkata,1903.07,April,4,2025,26-35
+ORD00681,CUST0314,Male,31.0,Electronics,Headphones,3,2024.37,Debit Card,2025-05-11,Mysuru,6073.11,May,5,2025,26-35
+ORD00682,CUST0045,Female,36.0,Electronics,Headphones,1,2139.58,Cash on Delivery,2025-09-07,Hyderabad,2139.58,September,9,2025,36-45
+ORD00683,CUST0007,Female,63.0,Electronics,Smartphone,1,20580.26,Credit Card,2025-11-11,Delhi,20580.26,November,11,2025,56+
+ORD00684,CUST0044,Male,33.0,Clothing,Dress,1,1709.5,Cash on Delivery,2025-08-23,Mumbai,1709.5,August,8,2025,26-35
+ORD00685,CUST0239,Female,47.0,Home & Kitchen,Bedsheet,1,1344.54,UPI,2025-07-07,Chennai,1344.54,July,7,2025,46-55
+ORD00686,CUST0199,Male,30.0,Clothing,Jacket,1,2546.58,UPI,2025-08-27,Kolkata,2546.58,August,8,2025,26-35
+ORD00687,CUST0030,Female,48.0,Clothing,Jeans,2,1818.21,Cash on Delivery,2025-01-26,Mysuru,3636.42,January,1,2025,46-55
+ORD00688,CUST0083,Male,45.0,Books,Cookbook,2,527.23,Cash on Delivery,2025-08-10,Bengaluru,1054.46,August,8,2025,36-45
+ORD00689,CUST0189,Male,25.0,Beauty,Sunscreen,1,565.32,Credit Card,2025-01-16,Mumbai,565.32,January,1,2025,18-25
+ORD00690,CUST0256,Male,40.0,Home & Kitchen,Lamp,1,999.06,Credit Card,2025-12-17,Mumbai,999.06,December,12,2025,36-45
+ORD00691,CUST0121,Male,23.0,Clothing,Sneakers,1,2136.76,Credit Card,2025-11-21,Chennai,2136.76,November,11,2025,18-25
+ORD00692,CUST0333,Male,60.0,Books,Biography,1,471.31,UPI,2025-07-05,Hyderabad,471.31,July,7,2025,56+
+ORD00693,CUST0348,Female,51.0,Electronics,Keyboard,1,1653.55,Cash on Delivery,2025-05-17,Bengaluru,1653.55,May,5,2025,46-55
+ORD00694,CUST0269,Male,63.0,Clothing,Jacket,2,2437.67,Cash on Delivery,2025-09-25,Mumbai,4875.34,September,9,2025,56+
+ORD00695,CUST0159,Male,60.0,Books,Notebook,2,127.11,Credit Card,2025-08-21,Chennai,254.22,August,8,2025,56+
+ORD00696,CUST0308,Other,28.0,Home & Kitchen,Water Bottle,1,511.0,UPI,2025-09-15,Delhi,511.0,September,9,2025,26-35
+ORD00697,CUST0255,Female,51.0,Beauty,Face Wash,1,305.77,UPI,2025-07-08,Hyderabad,305.77,July,7,2025,46-55
+ORD00698,CUST0182,Female,22.0,Home & Kitchen,Bedsheet,1,1338.07,UPI,2025-03-28,Mumbai,1338.07,March,3,2025,18-25
+ORD00699,CUST0156,Male,64.0,Home & Kitchen,Mixer,1,3009.58,Debit Card,2025-01-27,Mumbai,3009.58,January,1,2025,56+
+ORD00700,CUST0292,Male,55.0,Clothing,T-Shirt,3,757.42,Credit Card,2025-04-14,Mysuru,2272.2599999999998,April,4,2025,46-55
+ORD00701,CUST0195,Female,50.0,Electronics,Keyboard,2,1337.31,UPI,2025-07-13,Bengaluru,2674.62,July,7,2025,46-55
+ORD00702,CUST0065,Female,65.0,Clothing,Sneakers,3,2827.12,Debit Card,2025-06-04,Bengaluru,8481.36,June,6,2025,56+
+ORD00703,CUST0350,Female,58.0,Electronics,Smartphone,3,20936.79,Net Banking,2025-07-04,Hyderabad,62810.37,July,7,2025,56+
+ORD00704,CUST0024,Female,59.0,Beauty,Lipstick,2,457.55,UPI,2025-04-12,Mysuru,915.1,April,4,2025,56+
+ORD00705,CUST0244,Female,22.0,Clothing,T-Shirt,3,674.2,Credit Card,2025-12-09,Hyderabad,2022.6000000000001,December,12,2025,18-25
+ORD00706,CUST0230,Female,19.0,Home & Kitchen,Water Bottle,1,475.05,Credit Card,2025-05-14,Kolkata,475.05,May,5,2025,18-25
+ORD00707,CUST0206,Female,64.0,Beauty,Sunscreen,1,660.79,UPI,2025-11-05,Chennai,660.79,November,11,2025,56+
+ORD00708,CUST0019,Male,30.0,Beauty,Moisturizer,1,552.71,Credit Card,2025-05-23,Hyderabad,552.71,May,5,2025,26-35
+ORD00709,CUST0173,Female,38.0,Clothing,Sneakers,1,2171.28,Debit Card,2025-06-11,Bengaluru,2171.28,June,6,2025,36-45
+ORD00710,CUST0313,Female,20.0,Clothing,Dress,1,1684.26,UPI,2025-08-09,Delhi,1684.26,August,8,2025,18-25
+ORD00711,CUST0084,Female,47.0,Books,Novel,1,419.97,UPI,2025-04-07,Kolkata,419.97,April,4,2025,46-55
+ORD00712,CUST0243,Female,57.0,Home & Kitchen,Mixer,2,3229.99,Cash on Delivery,2025-03-22,Delhi,6459.98,March,3,2025,56+
+ORD00713,CUST0301,Male,58.0,Beauty,Lipstick,2,577.69,UPI,2025-05-19,Pune,1155.38,May,5,2025,56+
+ORD00714,CUST0334,Male,45.0,Books,Cookbook,1,509.42,Debit Card,2025-10-21,Chennai,509.42,October,10,2025,36-45
+ORD00715,CUST0181,Female,49.0,Beauty,Shampoo,1,469.13,Debit Card,2025-02-22,Mumbai,469.13,February,2,2025,46-55
+ORD00716,CUST0110,Female,42.0,Electronics,Laptop Stand,2,792.64,UPI,2025-06-09,Mysuru,1585.28,June,6,2025,36-45
+ORD00717,CUST0245,Female,39.0,Home & Kitchen,Bedsheet,1,1156.88,Debit Card,2025-09-03,Bengaluru,1156.88,September,9,2025,36-45
+ORD00718,CUST0171,Female,44.0,Electronics,Power Bank,1,1410.45,Cash on Delivery,2025-09-15,Mumbai,1410.45,September,9,2025,36-45
+ORD00719,CUST0220,Female,62.0,Home & Kitchen,Bedsheet,1,1536.11,Debit Card,2025-06-08,Mumbai,1536.11,June,6,2025,56+
+ORD00720,CUST0260,Female,30.0,Books,Novel,1,336.05,Credit Card,2025-01-30,Chennai,336.05,January,1,2025,26-35
+ORD00721,CUST0249,Female,40.0,Home & Kitchen,Cookware Set,1,2435.77,Credit Card,2025-01-06,Hyderabad,2435.77,January,1,2025,36-45
+ORD00722,CUST0085,Male,46.0,Clothing,Sneakers,2,2420.06,UPI,2025-06-21,Delhi,4840.12,June,6,2025,46-55
+ORD00723,CUST0265,Female,45.0,Electronics,Headphones,2,1792.18,Credit Card,2025-10-23,Chennai,3584.36,October,10,2025,36-45
+ORD00724,CUST0190,Female,19.0,Books,Data Analytics Book,2,687.39,UPI,2025-01-11,Pune,1374.78,January,1,2025,18-25
+ORD00725,CUST0326,Male,31.0,Electronics,Power Bank,1,1397.32,Credit Card,2025-11-20,Chennai,1397.32,November,11,2025,26-35
+ORD00726,CUST0231,Female,49.0,Electronics,Power Bank,2,1126.39,Credit Card,2025-09-04,Kolkata,2252.78,September,9,2025,46-55
+ORD00727,CUST0313,Female,43.0,Electronics,Headphones,2,1974.32,UPI,2025-01-03,Mumbai,3948.64,January,1,2025,36-45
+ORD00728,CUST0343,Female,53.0,Electronics,Headphones,1,1572.31,UPI,2025-05-06,Pune,1572.31,May,5,2025,46-55
+ORD00729,CUST0349,Female,65.0,Clothing,Jacket,2,2417.98,Debit Card,2025-03-22,Delhi,4835.96,March,3,2025,56+
+ORD00730,CUST0261,Female,50.0,Home & Kitchen,Bedsheet,1,1402.45,Credit Card,2025-12-13,Mysuru,1402.45,December,12,2025,46-55
+ORD00731,CUST0210,Male,45.0,Clothing,Dress,1,1840.45,Cash on Delivery,2025-07-22,Mysuru,1840.45,July,7,2025,36-45
+ORD00732,CUST0042,Male,33.0,Electronics,Laptop Stand,1,971.47,Credit Card,2025-04-29,Bengaluru,971.47,April,4,2025,26-35
+ORD00733,CUST0136,Female,35.0,Electronics,Keyboard,1,1324.36,Cash on Delivery,2025-04-12,Kolkata,1324.36,April,4,2025,26-35
+ORD00734,CUST0167,Female,57.0,Clothing,Jeans,1,1891.92,Debit Card,2025-07-25,Mysuru,1891.92,July,7,2025,56+
+ORD00735,CUST0274,Male,40.0,Electronics,Laptop Stand,1,1000.78,UPI,2025-01-02,Pune,1000.78,January,1,2025,36-45
+ORD00736,CUST0207,Male,43.0,Home & Kitchen,Mixer,1,3701.42,Net Banking,2025-04-04,Pune,3701.42,April,4,2025,36-45
+ORD00737,CUST0154,Female,23.0,Electronics,Laptop Stand,3,807.99,UPI,2025-03-02,Delhi,2423.9700000000003,March,3,2025,18-25
+ORD00738,CUST0052,Female,24.0,Clothing,T-Shirt,1,673.44,Credit Card,2025-08-15,Kolkata,673.44,August,8,2025,18-25
+ORD00739,CUST0251,Female,28.0,Clothing,Jacket,1,2740.98,Debit Card,2025-09-02,Kolkata,2740.98,September,9,2025,26-35
+ORD00740,CUST0152,Male,27.0,Clothing,Jeans,1,1660.82,UPI,2025-06-20,Kolkata,1660.82,June,6,2025,26-35
+ORD00741,CUST0013,Female,47.0,Electronics,Headphones,3,1717.03,Credit Card,2025-02-21,Delhi,5151.09,February,2,2025,46-55
+ORD00742,CUST0100,Female,48.0,Electronics,Headphones,1,1568.2,UPI,2025-05-16,Mumbai,1568.2,May,5,2025,46-55
+ORD00743,CUST0308,Female,44.0,Beauty,Shampoo,3,391.64,UPI,2025-11-04,Bengaluru,1174.92,November,11,2025,36-45
+ORD00744,CUST0042,Female,31.0,Electronics,Keyboard,1,1408.64,UPI,2025-03-16,Pune,1408.64,March,3,2025,26-35
+ORD00745,CUST0143,Female,45.0,Home & Kitchen,Mixer,1,3152.23,UPI,2025-03-01,Pune,3152.23,March,3,2025,36-45
+ORD00746,CUST0180,Male,23.0,Clothing,Jacket,1,2573.02,UPI,2025-02-10,Hyderabad,2573.02,February,2,2025,18-25
+ORD00747,CUST0030,Male,40.0,Clothing,Jeans,1,1506.66,Debit Card,2025-10-26,Bengaluru,1506.66,October,10,2025,36-45
+ORD00748,CUST0058,Female,25.0,Clothing,Dress,2,2031.92,Credit Card,2025-02-13,Pune,4063.84,February,2,2025,18-25
+ORD00749,CUST0330,Female,21.0,Beauty,Shampoo,3,394.34,Credit Card,2025-08-01,Mumbai,1183.02,August,8,2025,18-25
+ORD00750,CUST0207,Male,25.0,Beauty,Lipstick,1,485.44,Debit Card,2025-12-31,Hyderabad,485.44,December,12,2025,18-25
+ORD00751,CUST0074,Female,23.0,Clothing,Jeans,4,1658.99,UPI,2025-08-23,Chennai,6635.96,August,8,2025,18-25
+ORD00752,CUST0060,Female,40.0,Clothing,T-Shirt,1,784.11,UPI,2025-05-31,Mysuru,784.11,May,5,2025,36-45
+ORD00753,CUST0150,Female,44.0,Electronics,Laptop Stand,1,884.34,Debit Card,2025-03-17,Bengaluru,884.34,March,3,2025,36-45
+ORD00754,CUST0254,Male,47.0,Clothing,Sneakers,1,2533.52,Cash on Delivery,2025-01-01,Bengaluru,2533.52,January,1,2025,46-55
+ORD00755,CUST0256,Male,39.0,Home & Kitchen,Lamp,1,1009.95,Credit Card,2025-02-26,Kolkata,1009.95,February,2,2025,36-45
+ORD00756,CUST0069,Male,26.0,Electronics,Keyboard,2,1549.04,UPI,2025-12-14,Kolkata,3098.08,December,12,2025,26-35
+ORD00757,CUST0254,Male,19.0,Clothing,Dress,1,2220.02,Debit Card,2025-02-22,Delhi,2220.02,February,2,2025,18-25
+ORD00758,CUST0314,Female,52.0,Books,Biography,1,507.5,Cash on Delivery,2025-01-08,Delhi,507.5,January,1,2025,46-55
+ORD00759,CUST0080,Female,65.0,Electronics,Smartphone,1,15669.93,Credit Card,2025-10-25,Delhi,15669.93,October,10,2025,56+
+ORD00760,CUST0010,Female,31.0,Clothing,Jacket,1,2800.52,UPI,2025-06-02,Mumbai,2800.52,June,6,2025,26-35
+ORD00761,CUST0336,Male,27.0,Beauty,Face Wash,1,383.04,UPI,2025-05-11,Hyderabad,383.04,May,5,2025,26-35
+ORD00762,CUST0183,Male,32.0,Electronics,Laptop Stand,2,1075.81,Credit Card,2025-09-19,Mumbai,2151.62,September,9,2025,26-35
+ORD00763,CUST0272,Female,28.0,Electronics,Smartphone,1,18187.77,Cash on Delivery,2025-07-10,Hyderabad,18187.77,July,7,2025,26-35
+ORD00764,CUST0113,Male,28.0,Electronics,Headphones,1,1588.45,Debit Card,2025-11-30,Delhi,1588.45,November,11,2025,26-35
+ORD00765,CUST0105,Female,41.0,Books,Data Analytics Book,1,785.03,UPI,2025-06-20,Chennai,785.03,June,6,2025,36-45
+ORD00766,CUST0079,Female,55.0,Electronics,Laptop Stand,1,804.87,Debit Card,2025-09-18,Kolkata,804.87,September,9,2025,46-55
+ORD00767,CUST0076,Female,52.0,Electronics,Smartphone,1,20034.57,Cash on Delivery,2025-11-17,Mysuru,20034.57,November,11,2025,46-55
+ORD00768,CUST0166,Male,64.0,Electronics,Keyboard,2,1541.53,Credit Card,2025-06-19,Bengaluru,3083.06,June,6,2025,56+
+ORD00769,CUST0038,Male,35.0,Electronics,Laptop Stand,3,992.88,Cash on Delivery,2025-04-14,Hyderabad,2978.64,April,4,2025,26-35
+ORD00770,CUST0295,Male,41.0,Home & Kitchen,Lamp,1,981.14,Credit Card,2025-12-22,Bengaluru,981.14,December,12,2025,36-45
+ORD00771,CUST0179,Male,36.0,Electronics,Power Bank,3,1284.16,UPI,2025-03-24,Mysuru,3852.4800000000005,March,3,2025,36-45
+ORD00772,CUST0321,Male,20.0,Home & Kitchen,Mixer,1,3405.93,Credit Card,2025-01-15,Pune,3405.93,January,1,2025,18-25
+ORD00773,CUST0176,Male,36.0,Home & Kitchen,Water Bottle,2,501.34,Credit Card,2025-07-31,Delhi,1002.68,July,7,2025,36-45
+ORD00774,CUST0107,Male,30.0,Beauty,Sunscreen,2,686.92,Net Banking,2025-12-27,Hyderabad,1373.84,December,12,2025,26-35
+ORD00775,CUST0181,Female,40.0,Electronics,Laptop Stand,2,1038.75,Credit Card,2025-02-01,Pune,2077.5,February,2,2025,36-45
+ORD00776,CUST0054,Male,25.0,Beauty,Moisturizer,2,474.51,Credit Card,2025-11-07,Mysuru,949.02,November,11,2025,18-25
+ORD00777,CUST0289,Male,53.0,Home & Kitchen,Bedsheet,1,1358.07,Credit Card,2025-10-31,Delhi,1358.07,October,10,2025,46-55
+ORD00778,CUST0253,Male,58.0,Electronics,Keyboard,1,1388.54,Credit Card,2025-12-06,Bengaluru,1388.54,December,12,2025,56+
+ORD00779,CUST0052,Female,64.0,Beauty,Moisturizer,1,633.12,UPI,2025-06-03,Delhi,633.12,June,6,2025,56+
+ORD00780,CUST0204,Male,22.0,Beauty,Face Wash,1,376.93,UPI,2025-04-03,Mysuru,376.93,April,4,2025,18-25
+ORD00781,CUST0189,Male,23.0,Clothing,Jeans,2,1595.32,Credit Card,2025-07-06,Kolkata,3190.64,July,7,2025,18-25
+ORD00782,CUST0071,Female,64.0,Books,Notebook,1,109.9,Credit Card,2025-02-21,Mumbai,109.9,February,2,2025,56+
+ORD00783,CUST0043,Other,58.0,Clothing,Sneakers,1,2324.78,Debit Card,2025-11-04,Mysuru,2324.78,November,11,2025,56+
+ORD00784,CUST0267,Female,46.0,Home & Kitchen,Lamp,1,931.87,UPI,2025-08-31,Bengaluru,931.87,August,8,2025,46-55
+ORD00785,CUST0093,Female,33.0,Books,Notebook,1,110.58,Debit Card,2025-06-26,Mysuru,110.58,June,6,2025,26-35
+ORD00786,CUST0182,Female,42.0,Clothing,T-Shirt,2,617.93,Credit Card,2025-07-08,Mysuru,1235.86,July,7,2025,36-45
+ORD00787,CUST0087,Male,43.0,Beauty,Moisturizer,2,638.45,Credit Card,2025-09-17,Mysuru,1276.9,September,9,2025,36-45
+ORD00788,CUST0229,Male,58.0,Clothing,T-Shirt,1,782.23,Debit Card,2025-07-10,Chennai,782.23,July,7,2025,56+
+ORD00789,CUST0018,Female,43.0,Beauty,Face Wash,1,321.97,Debit Card,2025-11-03,Kolkata,321.97,November,11,2025,36-45
+ORD00790,CUST0126,Male,19.0,Home & Kitchen,Lamp,1,809.46,Cash on Delivery,2025-12-04,Pune,809.46,December,12,2025,18-25
+ORD00791,CUST0192,Female,51.0,Electronics,Keyboard,1,1785.34,UPI,2025-12-13,Kolkata,1785.34,December,12,2025,46-55
+ORD00792,CUST0154,Female,55.0,Clothing,T-Shirt,2,768.51,UPI,2025-08-15,Kolkata,1537.02,August,8,2025,46-55
+ORD00793,CUST0215,Male,32.0,Clothing,Sneakers,1,2552.84,Debit Card,2025-09-29,Delhi,2552.84,September,9,2025,26-35
+ORD00794,CUST0064,Male,23.0,Electronics,Laptop Stand,1,861.9,Credit Card,2025-04-24,Delhi,861.9,April,4,2025,18-25
+ORD00795,CUST0155,Male,24.0,Electronics,Headphones,1,1718.45,Debit Card,2025-01-14,Chennai,1718.45,January,1,2025,18-25
+ORD00796,CUST0265,Male,58.0,Clothing,Dress,3,1641.28,Credit Card,2025-05-27,Mumbai,4923.84,May,5,2025,56+
+ORD00797,CUST0117,Other,39.0,Electronics,Keyboard,2,1657.45,Debit Card,2025-11-15,Hyderabad,3314.9,November,11,2025,36-45
+ORD00798,CUST0055,Female,43.0,Electronics,Laptop Stand,1,778.6,UPI,2025-02-18,Kolkata,778.6,February,2,2025,36-45
+ORD00799,CUST0297,Female,64.0,Beauty,Sunscreen,1,511.02,Credit Card,2025-07-19,Mysuru,511.02,July,7,2025,56+
+ORD00800,CUST0273,Female,20.0,Beauty,Moisturizer,1,607.93,UPI,2025-03-12,Pune,607.93,March,3,2025,18-25
+ORD00801,CUST0239,Male,27.0,Beauty,Sunscreen,3,709.26,Credit Card,2025-06-06,Kolkata,2127.7799999999997,June,6,2025,26-35
+ORD00802,CUST0280,Male,57.0,Clothing,Jacket,1,3121.37,Debit Card,2025-02-22,Hyderabad,3121.37,February,2,2025,56+
+ORD00803,CUST0273,Male,43.0,Books,Notebook,1,121.81,Credit Card,2025-09-26,Mumbai,121.81,September,9,2025,36-45
+ORD00804,CUST0262,Female,19.0,Home & Kitchen,Mixer,4,3264.37,UPI,2025-10-23,Mumbai,13057.48,October,10,2025,18-25
+ORD00805,CUST0179,Female,51.0,Electronics,Headphones,2,1804.77,Cash on Delivery,2025-10-04,Mysuru,3609.54,October,10,2025,46-55
+ORD00806,CUST0007,Male,24.0,Electronics,Keyboard,1,1445.44,Debit Card,2025-09-15,Mumbai,1445.44,September,9,2025,18-25
+ORD00807,CUST0209,Other,55.0,Home & Kitchen,Water Bottle,1,464.67,Credit Card,2025-03-27,Chennai,464.67,March,3,2025,46-55
+ORD00808,CUST0096,Female,56.0,Electronics,Smartphone,1,18016.25,Net Banking,2025-07-13,Hyderabad,18016.25,July,7,2025,56+
+ORD00809,CUST0271,Female,57.0,Home & Kitchen,Cookware Set,1,2648.4,Credit Card,2025-02-08,Mysuru,2648.4,February,2,2025,56+
+ORD00810,CUST0164,Female,40.0,Books,Novel,1,407.52,Debit Card,2025-05-17,Hyderabad,407.52,May,5,2025,36-45
+ORD00811,CUST0317,Female,30.0,Electronics,Laptop Stand,3,1078.43,UPI,2025-07-04,Pune,3235.29,July,7,2025,26-35
+ORD00812,CUST0209,Female,60.0,Electronics,Smartphone,3,15796.08,UPI,2025-09-02,Bengaluru,47388.24,September,9,2025,56+
+ORD00813,CUST0193,Female,44.0,Books,Novel,1,344.62,UPI,2025-02-05,Bengaluru,344.62,February,2,2025,36-45
+ORD00814,CUST0322,Male,48.0,Home & Kitchen,Lamp,1,776.26,UPI,2025-10-24,Kolkata,776.26,October,10,2025,46-55
+ORD00815,CUST0167,Female,24.0,Electronics,Headphones,1,1751.84,Credit Card,2025-06-17,Chennai,1751.84,June,6,2025,18-25
+ORD00816,CUST0132,Female,47.0,Books,Novel,1,332.72,UPI,2025-11-18,Hyderabad,332.72,November,11,2025,46-55
+ORD00817,CUST0131,Female,45.0,Books,Biography,2,409.99,Debit Card,2025-07-12,Kolkata,819.98,July,7,2025,36-45
+ORD00818,CUST0307,Male,32.0,Home & Kitchen,Lamp,1,949.81,UPI,2025-07-19,Hyderabad,949.81,July,7,2025,26-35
+ORD00819,CUST0265,Female,54.0,Home & Kitchen,Mixer,1,3275.84,UPI,2025-09-10,Hyderabad,3275.84,September,9,2025,46-55
+ORD00820,CUST0058,Female,24.0,Clothing,Sneakers,1,2812.17,Net Banking,2025-10-27,Mysuru,2812.17,October,10,2025,18-25
+ORD00821,CUST0173,Female,52.0,Electronics,Laptop Stand,1,775.27,Debit Card,2025-02-27,Pune,775.27,February,2,2025,46-55
+ORD00822,CUST0130,Male,64.0,Home & Kitchen,Lamp,1,742.43,Cash on Delivery,2025-07-06,Pune,742.43,July,7,2025,56+
+ORD00823,CUST0227,Male,45.0,Clothing,T-Shirt,2,693.8,Credit Card,2025-01-11,Mumbai,1387.6,January,1,2025,36-45
+ORD00824,CUST0019,Female,23.0,Home & Kitchen,Lamp,2,746.38,UPI,2025-06-23,Chennai,1492.76,June,6,2025,18-25
+ORD00825,CUST0250,Female,44.0,Beauty,Sunscreen,1,565.17,Credit Card,2025-10-24,Chennai,565.17,October,10,2025,36-45
+ORD00826,CUST0260,Female,43.0,Electronics,Keyboard,2,1792.67,Credit Card,2025-11-12,Bengaluru,3585.34,November,11,2025,36-45
+ORD00827,CUST0080,Male,44.0,Home & Kitchen,Water Bottle,1,415.41,UPI,2025-04-14,Mysuru,415.41,April,4,2025,36-45
+ORD00828,CUST0053,Male,31.0,Electronics,Keyboard,2,1379.01,Cash on Delivery,2025-05-22,Hyderabad,2758.02,May,5,2025,26-35
+ORD00829,CUST0220,Female,48.0,Beauty,Sunscreen,1,630.46,Debit Card,2025-07-21,Hyderabad,630.46,July,7,2025,46-55
+ORD00830,CUST0090,Female,30.0,Clothing,T-Shirt,1,717.01,Debit Card,2025-05-25,Chennai,717.01,May,5,2025,26-35
+ORD00831,CUST0330,Male,44.0,Home & Kitchen,Lamp,3,895.18,Credit Card,2025-03-06,Mumbai,2685.54,March,3,2025,36-45
+ORD00832,CUST0272,Male,46.0,Home & Kitchen,Cookware Set,1,2454.64,Debit Card,2025-04-22,Pune,2454.64,April,4,2025,46-55
+ORD00833,CUST0335,Female,49.0,Clothing,Jeans,1,1822.99,UPI,2025-05-28,Delhi,1822.99,May,5,2025,46-55
+ORD00834,CUST0188,Female,56.0,Home & Kitchen,Bedsheet,1,1168.05,Net Banking,2025-07-09,Mysuru,1168.05,July,7,2025,56+
+ORD00835,CUST0329,Female,60.0,Beauty,Moisturizer,1,549.97,Credit Card,2025-12-03,Bengaluru,549.97,December,12,2025,56+
+ORD00836,CUST0005,Male,55.0,Home & Kitchen,Bedsheet,1,1418.84,UPI,2025-07-18,Kolkata,1418.84,July,7,2025,46-55
+ORD00837,CUST0102,Male,56.0,Beauty,Lipstick,1,576.94,UPI,2025-05-22,Chennai,576.94,May,5,2025,56+
+ORD00838,CUST0001,Male,59.0,Books,Notebook,3,117.52,Debit Card,2025-08-30,Delhi,352.56,August,8,2025,56+
+ORD00839,CUST0238,Male,29.0,Clothing,Jeans,1,1677.94,Net Banking,2025-10-10,Mysuru,1677.94,October,10,2025,26-35
+ORD00840,CUST0179,Female,32.0,Home & Kitchen,Lamp,1,743.07,Cash on Delivery,2025-06-07,Bengaluru,743.07,June,6,2025,26-35
+ORD00841,CUST0101,Female,43.0,Electronics,Laptop Stand,1,818.65,Debit Card,2025-06-28,Mysuru,818.65,June,6,2025,36-45
+ORD00842,CUST0107,Female,40.0,Beauty,Sunscreen,2,524.52,Net Banking,2025-03-21,Bengaluru,1049.04,March,3,2025,36-45
+ORD00843,CUST0226,Male,51.0,Home & Kitchen,Cookware Set,1,2761.9,Debit Card,2025-11-12,Hyderabad,2761.9,November,11,2025,46-55
+ORD00844,CUST0064,Male,18.0,Clothing,Jacket,1,2662.3,UPI,2025-11-13,Mysuru,2662.3,November,11,2025,18-25
+ORD00845,CUST0181,Female,24.0,Electronics,Laptop Stand,1,992.98,Debit Card,2025-03-05,Mysuru,992.98,March,3,2025,18-25
+ORD00846,CUST0215,Female,53.0,Books,Cookbook,2,436.62,UPI,2025-05-07,Mumbai,873.24,May,5,2025,46-55
+ORD00847,CUST0084,Male,57.0,Clothing,Dress,2,2188.59,UPI,2025-04-10,Chennai,4377.18,April,4,2025,56+
+ORD00848,CUST0080,Male,32.0,Home & Kitchen,Water Bottle,1,514.1,Credit Card,2025-12-03,Delhi,514.1,December,12,2025,26-35
+ORD00849,CUST0124,Male,32.0,Electronics,Smartphone,2,15860.25,UPI,2025-01-24,Mysuru,31720.5,January,1,2025,26-35
+ORD00850,CUST0208,Female,44.0,Books,Data Analytics Book,1,643.74,Net Banking,2025-03-17,Chennai,643.74,March,3,2025,36-45
+ORD00851,CUST0090,Male,40.0,Electronics,Headphones,1,1565.46,Net Banking,2025-04-25,Delhi,1565.46,April,4,2025,36-45
+ORD00852,CUST0133,Male,26.0,Electronics,Smartphone,1,20677.87,UPI,2025-07-24,Mysuru,20677.87,July,7,2025,26-35
+ORD00853,CUST0191,Male,42.0,Beauty,Face Wash,1,326.25,Debit Card,2025-04-01,Chennai,326.25,April,4,2025,36-45
+ORD00854,CUST0066,Male,57.0,Books,Novel,1,364.66,Credit Card,2025-07-15,Kolkata,364.66,July,7,2025,56+
+ORD00855,CUST0200,Male,53.0,Electronics,Power Bank,1,1199.02,UPI,2025-09-30,Hyderabad,1199.02,September,9,2025,46-55
+ORD00856,CUST0049,Male,57.0,Clothing,T-Shirt,1,789.9,UPI,2025-10-30,Mysuru,789.9,October,10,2025,56+
+ORD00857,CUST0050,Male,48.0,Beauty,Shampoo,1,408.45,UPI,2025-02-06,Mumbai,408.45,February,2,2025,46-55
+ORD00858,CUST0083,Female,60.0,Beauty,Sunscreen,1,615.14,UPI,2025-02-20,Hyderabad,615.14,February,2,2025,56+
+ORD00859,CUST0101,Female,29.0,Clothing,Sneakers,2,2870.84,UPI,2025-02-04,Kolkata,5741.68,February,2,2025,26-35
+ORD00860,CUST0011,Male,20.0,Home & Kitchen,Bedsheet,2,1173.31,UPI,2025-11-29,Kolkata,2346.62,November,11,2025,18-25
+ORD00861,CUST0337,Male,23.0,Beauty,Face Wash,1,399.26,UPI,2025-08-27,Kolkata,399.26,August,8,2025,18-25
+ORD00862,CUST0108,Female,65.0,Beauty,Lipstick,1,434.06,Cash on Delivery,2025-07-13,Pune,434.06,July,7,2025,56+
+ORD00863,CUST0282,Female,48.0,Beauty,Lipstick,1,508.59,UPI,2025-10-16,Hyderabad,508.59,October,10,2025,46-55
+ORD00864,CUST0316,Male,29.0,Home & Kitchen,Cookware Set,1,2900.54,UPI,2025-08-02,Chennai,2900.54,August,8,2025,26-35
+ORD00865,CUST0281,Male,58.0,Electronics,Headphones,1,1949.08,Credit Card,2025-03-27,Chennai,1949.08,March,3,2025,56+
+ORD00866,CUST0291,Male,32.0,Books,Novel,1,381.44,UPI,2025-07-06,Chennai,381.44,July,7,2025,26-35
+ORD00867,CUST0036,Female,46.0,Beauty,Moisturizer,2,518.19,Credit Card,2025-09-14,Chennai,1036.38,September,9,2025,46-55
+ORD00868,CUST0131,Male,29.0,Beauty,Face Wash,2,348.78,UPI,2025-01-14,Mysuru,697.56,January,1,2025,26-35
+ORD00869,CUST0262,Male,22.0,Electronics,Keyboard,1,1467.46,Debit Card,2025-08-10,Kolkata,1467.46,August,8,2025,18-25
+ORD00870,CUST0202,Female,30.0,Electronics,Smartphone,1,18585.09,Credit Card,2025-07-01,Bengaluru,18585.09,July,7,2025,26-35
+ORD00871,CUST0002,Female,28.0,Beauty,Moisturizer,3,556.48,Debit Card,2025-01-26,Delhi,1669.44,January,1,2025,26-35
+ORD00872,CUST0199,Other,44.0,Electronics,Keyboard,1,1446.62,Credit Card,2025-04-07,Delhi,1446.62,April,4,2025,36-45
+ORD00873,CUST0282,Female,18.0,Books,Notebook,2,114.83,Credit Card,2025-06-13,Kolkata,229.66,June,6,2025,18-25
+ORD00874,CUST0291,Male,29.0,Clothing,Jeans,1,1500.48,UPI,2025-05-06,Bengaluru,1500.48,May,5,2025,26-35
+ORD00875,CUST0135,Male,45.0,Beauty,Moisturizer,1,537.77,UPI,2025-04-16,Delhi,537.77,April,4,2025,36-45
+ORD00876,CUST0083,Male,36.0,Books,Cookbook,1,451.24,Credit Card,2025-08-25,Mumbai,451.24,August,8,2025,36-45
+ORD00877,CUST0109,Female,48.0,Clothing,Sneakers,1,2772.57,UPI,2025-05-28,Bengaluru,2772.57,May,5,2025,46-55
+ORD00878,CUST0104,Male,49.0,Clothing,Dress,3,2015.41,UPI,2025-07-01,Mysuru,6046.2300000000005,July,7,2025,46-55
+ORD00879,CUST0122,Female,64.0,Home & Kitchen,Lamp,1,762.3,Debit Card,2025-10-19,Mumbai,762.3,October,10,2025,56+
+ORD00880,CUST0106,Male,58.0,Home & Kitchen,Lamp,3,928.92,UPI,2025-02-04,Kolkata,2786.7599999999998,February,2,2025,56+
+ORD00881,CUST0161,Female,28.0,Clothing,T-Shirt,1,802.68,UPI,2025-05-12,Delhi,802.68,May,5,2025,26-35
+ORD00882,CUST0015,Male,51.0,Home & Kitchen,Water Bottle,2,419.91,Debit Card,2025-01-27,Kolkata,839.82,January,1,2025,46-55
+ORD00883,CUST0097,Male,48.0,Books,Cookbook,3,451.36,Credit Card,2025-12-05,Chennai,1354.08,December,12,2025,46-55
+ORD00884,CUST0111,Female,46.0,Clothing,T-Shirt,1,597.11,Cash on Delivery,2025-03-09,Pune,597.11,March,3,2025,46-55
+ORD00885,CUST0054,Female,56.0,Electronics,Smartphone,1,15597.68,Cash on Delivery,2025-10-27,Pune,15597.68,October,10,2025,56+
+ORD00886,CUST0308,Male,25.0,Clothing,T-Shirt,2,781.75,Net Banking,2025-03-11,Chennai,1563.5,March,3,2025,18-25
+ORD00887,CUST0237,Female,36.0,Clothing,Dress,1,2271.48,Credit Card,2025-04-29,Chennai,2271.48,April,4,2025,36-45
+ORD00888,CUST0320,Female,57.0,Electronics,Headphones,3,1558.27,UPI,2025-08-11,Mysuru,4674.8099999999995,August,8,2025,56+
+ORD00889,CUST0197,Female,60.0,Electronics,Headphones,1,2001.28,Debit Card,2025-10-31,Chennai,2001.28,October,10,2025,56+
+ORD00890,CUST0039,Male,19.0,Home & Kitchen,Mixer,1,2800.49,Debit Card,2025-03-06,Bengaluru,2800.49,March,3,2025,18-25
+ORD00891,CUST0317,Male,40.0,Clothing,T-Shirt,1,740.07,Debit Card,2025-03-19,Chennai,740.07,March,3,2025,36-45
+ORD00892,CUST0161,Female,30.0,Books,Cookbook,2,557.31,UPI,2025-11-18,Chennai,1114.62,November,11,2025,26-35
+ORD00893,CUST0240,Other,26.0,Electronics,Smartphone,4,17562.99,UPI,2025-04-28,Pune,70251.96,April,4,2025,26-35
+ORD00894,CUST0134,Female,20.0,Electronics,Keyboard,1,1280.74,UPI,2025-03-18,Chennai,1280.74,March,3,2025,18-25
+ORD00895,CUST0173,Female,43.0,Beauty,Moisturizer,2,582.07,UPI,2025-09-29,Mumbai,1164.14,September,9,2025,36-45
+ORD00896,CUST0172,Female,50.0,Books,Cookbook,3,598.47,UPI,2025-02-03,Mumbai,1795.41,February,2,2025,46-55
+ORD00897,CUST0100,Female,43.0,Clothing,Sneakers,1,2256.4,Cash on Delivery,2025-11-13,Hyderabad,2256.4,November,11,2025,36-45
+ORD00898,CUST0195,Female,35.0,Electronics,Power Bank,1,1099.59,UPI,2025-11-16,Delhi,1099.59,November,11,2025,26-35
+ORD00899,CUST0257,Male,55.0,Electronics,Power Bank,2,1072.05,Debit Card,2025-11-09,Mumbai,2144.1,November,11,2025,46-55
+ORD00900,CUST0008,Female,49.0,Home & Kitchen,Water Bottle,2,469.95,Cash on Delivery,2025-04-18,Delhi,939.9,April,4,2025,46-55
+ORD00901,CUST0046,Male,61.0,Clothing,Jacket,1,2964.52,UPI,2025-02-11,Hyderabad,2964.52,February,2,2025,56+
+ORD00902,CUST0295,Female,34.0,Clothing,Dress,2,2141.86,Credit Card,2025-06-05,Mysuru,4283.72,June,6,2025,26-35
+ORD00903,CUST0200,Female,29.0,Electronics,Keyboard,1,1670.36,Debit Card,2025-05-03,Chennai,1670.36,May,5,2025,26-35
+ORD00904,CUST0341,Female,39.0,Clothing,Sneakers,3,2789.73,UPI,2025-12-17,Mumbai,8369.19,December,12,2025,36-45
+ORD00905,CUST0212,Male,42.0,Books,Biography,3,509.41,Credit Card,2025-08-19,Mumbai,1528.23,August,8,2025,36-45
+ORD00906,CUST0229,Male,39.0,Home & Kitchen,Lamp,2,796.06,Cash on Delivery,2025-12-11,Delhi,1592.12,December,12,2025,36-45
+ORD00907,CUST0315,Female,57.0,Clothing,Sneakers,1,2506.94,Debit Card,2025-10-02,Bengaluru,2506.94,October,10,2025,56+
+ORD00908,CUST0232,Female,20.0,Electronics,Keyboard,1,1431.14,Cash on Delivery,2025-09-18,Hyderabad,1431.14,September,9,2025,18-25
+ORD00909,CUST0116,Female,43.0,Clothing,T-Shirt,1,675.8,Net Banking,2025-02-10,Chennai,675.8,February,2,2025,36-45
+ORD00910,CUST0185,Male,38.0,Clothing,Jeans,1,1881.89,UPI,2025-01-26,Kolkata,1881.89,January,1,2025,36-45
+ORD00911,CUST0083,Female,28.0,Beauty,Face Wash,2,381.03,Debit Card,2025-01-17,Mumbai,762.06,January,1,2025,26-35
+ORD00912,CUST0117,Male,48.0,Beauty,Face Wash,1,416.89,Debit Card,2025-08-05,Hyderabad,416.89,August,8,2025,46-55
+ORD00913,CUST0239,Female,56.0,Books,Cookbook,1,497.96,Debit Card,2025-03-15,Hyderabad,497.96,March,3,2025,56+
+ORD00914,CUST0053,Female,44.0,Books,Data Analytics Book,1,778.58,Debit Card,2025-12-28,Chennai,778.58,December,12,2025,36-45
+ORD00915,CUST0236,Male,22.0,Books,Cookbook,1,510.25,Debit Card,2025-02-18,Hyderabad,510.25,February,2,2025,18-25
+ORD00916,CUST0205,Female,21.0,Books,Cookbook,1,443.78,Cash on Delivery,2025-12-12,Pune,443.78,December,12,2025,18-25
+ORD00917,CUST0108,Female,38.0,Electronics,Power Bank,2,1119.41,UPI,2025-09-01,Pune,2238.82,September,9,2025,36-45
+ORD00918,CUST0016,Male,50.0,Electronics,Keyboard,2,1552.01,Debit Card,2025-02-08,Bengaluru,3104.02,February,2,2025,46-55
+ORD00919,CUST0247,Female,33.0,Clothing,Dress,1,1659.8,UPI,2025-01-22,Mumbai,1659.8,January,1,2025,26-35
+ORD00920,CUST0289,Female,32.0,Home & Kitchen,Water Bottle,2,529.21,Credit Card,2025-05-25,Chennai,1058.42,May,5,2025,26-35
+ORD00921,CUST0256,Female,59.0,Electronics,Smartphone,2,16080.22,Debit Card,2025-05-04,Hyderabad,32160.44,May,5,2025,56+
+ORD00922,CUST0148,Male,18.0,Beauty,Sunscreen,1,551.58,Debit Card,2025-04-26,Delhi,551.58,April,4,2025,18-25
+ORD00923,CUST0229,Male,21.0,Home & Kitchen,Mixer,2,3577.16,Credit Card,2025-07-12,Mysuru,7154.32,July,7,2025,18-25
+ORD00924,CUST0146,Female,25.0,Home & Kitchen,Bedsheet,1,1149.11,Credit Card,2025-02-17,Hyderabad,1149.11,February,2,2025,18-25
+ORD00925,CUST0126,Male,65.0,Electronics,Laptop Stand,1,1048.59,UPI,2025-02-17,Chennai,1048.59,February,2,2025,56+
+ORD00926,CUST0115,Male,41.0,Clothing,T-Shirt,1,772.8,UPI,2025-09-11,Bengaluru,772.8,September,9,2025,36-45
+ORD00927,CUST0074,Male,25.0,Electronics,Power Bank,1,1048.82,UPI,2025-12-28,Hyderabad,1048.82,December,12,2025,18-25
+ORD00928,CUST0340,Male,32.0,Beauty,Moisturizer,3,600.68,Cash on Delivery,2025-04-10,Kolkata,1802.04,April,4,2025,26-35
+ORD00929,CUST0234,Male,64.0,Home & Kitchen,Mixer,3,3427.42,UPI,2025-12-07,Hyderabad,10282.26,December,12,2025,56+
+ORD00930,CUST0062,Male,51.0,Beauty,Sunscreen,2,669.04,Net Banking,2025-05-06,Kolkata,1338.08,May,5,2025,46-55
+ORD00931,CUST0303,Female,28.0,Clothing,T-Shirt,1,797.91,UPI,2025-05-03,Mumbai,797.91,May,5,2025,26-35
+ORD00932,CUST0053,Female,29.0,Clothing,Sneakers,1,2643.41,Debit Card,2025-02-02,Bengaluru,2643.41,February,2,2025,26-35
+ORD00933,CUST0208,Male,21.0,Clothing,T-Shirt,4,738.61,Credit Card,2025-06-04,Chennai,2954.44,June,6,2025,18-25
+ORD00934,CUST0058,Female,55.0,Beauty,Shampoo,1,385.14,Debit Card,2025-07-01,Mysuru,385.14,July,7,2025,46-55
+ORD00935,CUST0127,Male,24.0,Beauty,Lipstick,1,547.02,Debit Card,2025-08-31,Mumbai,547.02,August,8,2025,18-25
+ORD00936,CUST0231,Female,31.0,Electronics,Smartphone,1,21328.92,Debit Card,2025-02-27,Mysuru,21328.92,February,2,2025,26-35
+ORD00937,CUST0350,Male,34.0,Books,Biography,1,475.03,Cash on Delivery,2025-03-10,Kolkata,475.03,March,3,2025,26-35
+ORD00938,CUST0348,Female,47.0,Electronics,Power Bank,1,1299.02,Credit Card,2025-06-07,Pune,1299.02,June,6,2025,46-55
+ORD00939,CUST0314,Male,47.0,Books,Notebook,1,120.36,UPI,2025-01-26,Mumbai,120.36,January,1,2025,46-55
+ORD00940,CUST0083,Female,56.0,Electronics,Headphones,1,2006.36,UPI,2025-02-22,Hyderabad,2006.36,February,2,2025,56+
+ORD00941,CUST0033,Female,32.0,Clothing,Sneakers,1,2878.04,Debit Card,2025-08-18,Mumbai,2878.04,August,8,2025,26-35
+ORD00942,CUST0317,Male,36.0,Beauty,Lipstick,1,453.07,Credit Card,2025-12-15,Mysuru,453.07,December,12,2025,36-45
+ORD00943,CUST0324,Male,36.0,Electronics,Power Bank,1,1105.01,Credit Card,2025-07-29,Kolkata,1105.01,July,7,2025,36-45
+ORD00944,CUST0098,Male,20.0,Clothing,T-Shirt,1,727.16,Credit Card,2025-02-22,Pune,727.16,February,2,2025,18-25
+ORD00945,CUST0007,Male,53.0,Clothing,Dress,3,1935.11,Credit Card,2025-12-28,Mumbai,5805.33,December,12,2025,46-55
+ORD00946,CUST0227,Female,43.0,Electronics,Headphones,1,1890.09,Debit Card,2025-07-10,Mumbai,1890.09,July,7,2025,36-45
+ORD00947,CUST0027,Male,40.0,Beauty,Shampoo,2,346.87,Debit Card,2025-09-19,Pune,693.74,September,9,2025,36-45
+ORD00948,CUST0015,Female,65.0,Beauty,Shampoo,2,396.6,Debit Card,2025-03-13,Delhi,793.2,March,3,2025,56+
+ORD00949,CUST0329,Male,26.0,Beauty,Shampoo,1,421.62,Debit Card,2025-07-31,Delhi,421.62,July,7,2025,26-35
+ORD00950,CUST0174,Female,64.0,Clothing,Jacket,2,2953.49,Cash on Delivery,2025-01-28,Delhi,5906.98,January,1,2025,56+
+ORD00951,CUST0040,Female,50.0,Home & Kitchen,Mixer,2,3456.21,Credit Card,2025-08-17,Delhi,6912.42,August,8,2025,46-55
+ORD00952,CUST0230,Male,28.0,Electronics,Laptop Stand,1,991.87,Net Banking,2025-03-15,Hyderabad,991.87,March,3,2025,26-35
+ORD00953,CUST0130,Male,50.0,Electronics,Keyboard,1,1611.81,UPI,2025-11-28,Bengaluru,1611.81,November,11,2025,46-55
+ORD00954,CUST0188,Female,54.0,Electronics,Laptop Stand,1,1013.93,Debit Card,2025-01-20,Delhi,1013.93,January,1,2025,46-55
+ORD00955,CUST0315,Male,35.0,Books,Data Analytics Book,4,801.5,Debit Card,2025-08-27,Delhi,3206.0,August,8,2025,26-35
+ORD00956,CUST0084,Male,34.0,Books,Notebook,2,124.58,Credit Card,2025-02-20,Mumbai,249.16,February,2,2025,26-35
+ORD00957,CUST0227,Female,58.0,Beauty,Face Wash,3,371.76,UPI,2025-09-08,Mumbai,1115.28,September,9,2025,56+
+ORD00958,CUST0290,Male,25.0,Home & Kitchen,Bedsheet,3,1151.04,Credit Card,2025-06-30,Delhi,3453.12,June,6,2025,18-25
+ORD00959,CUST0149,Female,18.0,Clothing,Jacket,1,2647.69,UPI,2025-12-20,Mumbai,2647.69,December,12,2025,18-25
+ORD00960,CUST0340,Female,49.0,Home & Kitchen,Bedsheet,2,1344.97,Cash on Delivery,2025-08-26,Kolkata,2689.94,August,8,2025,46-55
+ORD00961,CUST0157,Male,61.0,Home & Kitchen,Lamp,1,982.21,UPI,2025-05-16,Hyderabad,982.21,May,5,2025,56+
+ORD00962,CUST0161,Female,42.0,Clothing,Jacket,2,3045.47,UPI,2025-02-01,Hyderabad,6090.94,February,2,2025,36-45
+ORD00963,CUST0310,Female,24.0,Electronics,Keyboard,1,1322.46,Credit Card,2025-08-06,Mumbai,1322.46,August,8,2025,18-25
+ORD00964,CUST0223,Male,43.0,Electronics,Headphones,1,1903.13,Credit Card,2025-06-10,Kolkata,1903.13,June,6,2025,36-45
+ORD00965,CUST0305,Female,30.0,Books,Biography,2,417.42,UPI,2025-01-20,Bengaluru,834.84,January,1,2025,26-35
+ORD00966,CUST0277,Male,57.0,Clothing,Jacket,2,3099.34,Credit Card,2025-08-01,Hyderabad,6198.68,August,8,2025,56+
+ORD00967,CUST0250,Male,47.0,Books,Data Analytics Book,1,854.7,Credit Card,2025-03-18,Mysuru,854.7,March,3,2025,46-55
+ORD00968,CUST0085,Female,34.0,Electronics,Smartphone,1,19038.77,UPI,2025-03-27,Pune,19038.77,March,3,2025,26-35
+ORD00969,CUST0140,Male,47.0,Home & Kitchen,Cookware Set,1,2642.44,Credit Card,2025-01-04,Delhi,2642.44,January,1,2025,46-55
+ORD00970,CUST0303,Female,50.0,Electronics,Power Bank,3,1162.21,Credit Card,2025-05-16,Mumbai,3486.63,May,5,2025,46-55
+ORD00971,CUST0216,Male,50.0,Clothing,Sneakers,1,2414.85,Debit Card,2025-03-21,Bengaluru,2414.85,March,3,2025,46-55
+ORD00972,CUST0099,Female,35.0,Electronics,Headphones,1,2074.39,UPI,2025-01-27,Pune,2074.39,January,1,2025,26-35
+ORD00973,CUST0115,Male,45.0,Electronics,Laptop Stand,1,992.85,UPI,2025-06-08,Delhi,992.85,June,6,2025,36-45
+ORD00974,CUST0272,Female,20.0,Books,Notebook,1,123.83,Net Banking,2025-03-22,Mumbai,123.83,March,3,2025,18-25
+ORD00975,CUST0063,Male,37.0,Clothing,T-Shirt,1,685.22,Credit Card,2025-02-18,Pune,685.22,February,2,2025,36-45
+ORD00976,CUST0040,Female,36.0,Home & Kitchen,Bedsheet,1,1127.92,UPI,2025-06-20,Bengaluru,1127.92,June,6,2025,36-45
+ORD00977,CUST0268,Female,43.0,Clothing,Jacket,2,2520.15,Cash on Delivery,2025-01-24,Delhi,5040.3,January,1,2025,36-45
+ORD00978,CUST0101,Female,63.0,Clothing,Dress,3,1743.36,UPI,2025-12-28,Mysuru,5230.08,December,12,2025,56+
+ORD00979,CUST0268,Male,63.0,Home & Kitchen,Water Bottle,3,441.31,Debit Card,2025-06-21,Mysuru,1323.93,June,6,2025,56+
+ORD00980,CUST0187,Other,41.0,Electronics,Laptop Stand,1,1062.41,Debit Card,2025-12-30,Bengaluru,1062.41,December,12,2025,36-45
+ORD00981,CUST0350,Female,43.0,Books,Biography,1,462.06,Net Banking,2025-11-18,Mysuru,462.06,November,11,2025,36-45
+ORD00982,CUST0184,Female,23.0,Beauty,Face Wash,2,326.27,Net Banking,2025-12-24,Kolkata,652.54,December,12,2025,18-25
+ORD00983,CUST0304,Female,41.0,Beauty,Lipstick,2,443.51,UPI,2025-07-18,Delhi,887.02,July,7,2025,36-45
+ORD00984,CUST0298,Female,51.0,Clothing,Dress,1,1839.97,Debit Card,2025-06-04,Kolkata,1839.97,June,6,2025,46-55
+ORD00985,CUST0075,Male,50.0,Electronics,Power Bank,2,1362.61,UPI,2025-09-20,Mumbai,2725.22,September,9,2025,46-55
+ORD00986,CUST0349,Male,64.0,Books,Biography,2,442.88,Debit Card,2025-01-30,Pune,885.76,January,1,2025,56+
+ORD00987,CUST0262,Male,40.0,Clothing,Sneakers,2,2688.9,Credit Card,2025-11-03,Bengaluru,5377.8,November,11,2025,36-45
+ORD00988,CUST0038,Female,61.0,Electronics,Power Bank,2,1357.14,UPI,2025-04-29,Bengaluru,2714.28,April,4,2025,56+
+ORD00989,CUST0003,Female,64.0,Clothing,Dress,1,1688.7,UPI,2025-01-03,Bengaluru,1688.7,January,1,2025,56+
+ORD00990,CUST0095,Male,45.0,Beauty,Shampoo,1,425.21,UPI,2025-03-28,Kolkata,425.21,March,3,2025,36-45
+ORD00991,CUST0006,Female,22.0,Home & Kitchen,Bedsheet,1,1541.39,UPI,2025-03-30,Chennai,1541.39,March,3,2025,18-25
+ORD00992,CUST0126,Male,36.0,Beauty,Sunscreen,1,594.45,UPI,2025-01-06,Chennai,594.45,January,1,2025,36-45
+ORD00993,CUST0349,Female,54.0,Beauty,Face Wash,2,303.74,Cash on Delivery,2025-09-02,Kolkata,607.48,September,9,2025,46-55
+ORD00994,CUST0168,Female,45.0,Electronics,Keyboard,1,1759.73,Credit Card,2025-02-04,Mumbai,1759.73,February,2,2025,36-45
+ORD00995,CUST0009,Male,62.0,Books,Biography,1,521.68,Debit Card,2025-11-06,Chennai,521.68,November,11,2025,56+
+ORD00996,CUST0173,Female,57.0,Clothing,Sneakers,2,2478.6,Cash on Delivery,2025-06-15,Hyderabad,4957.2,June,6,2025,56+
+ORD00997,CUST0077,Male,21.0,Home & Kitchen,Water Bottle,2,469.48,Debit Card,2025-09-20,Hyderabad,938.96,September,9,2025,18-25
+ORD00998,CUST0300,Female,59.0,Electronics,Smartphone,2,16633.97,Credit Card,2025-05-04,Chennai,33267.94,May,5,2025,56+
+ORD00999,CUST0032,Female,35.0,Books,Cookbook,1,568.4,Cash on Delivery,2025-02-18,Delhi,568.4,February,2,2025,26-35
+ORD01000,CUST0270,Female,57.0,Clothing,Sneakers,2,2458.82,Debit Card,2025-03-07,Bengaluru,4917.64,March,3,2025,56+
