@@ -196,3 +196,11 @@ plt.show()
 # 14. Export cleaned dataset
 data.to_csv("cleaned_ecommerce_data.csv", index=False)
 print("\nAnalysis completed. Cleaned dataset and charts have been saved.")
+
+
+cleaned_data = pd.read_csv("cleaned_ecommerce_data.csv")
+
+print(cleaned_data.head())
+print(cleaned_data.shape)
+print(cleaned_data.isnull().sum())
+print(cleaned_data.duplicated().sum())
